@@ -60,7 +60,7 @@
 
     header.hero {
       display: grid;
-      grid-template-columns: 156px 1fr;
+      grid-template-columns: 156px minmax(0, 1fr);
       gap: 1.5rem;
       align-items: center;
       margin-bottom: 1.6rem;
@@ -75,11 +75,12 @@
     .cover-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
     .hero h1 {
       font-family: "Source Serif 4", Georgia, serif;
-      font-size: clamp(1.65rem, 4vw, 2.15rem);
+      font-size: clamp(1.45rem, 3.6vw, 2.15rem);
       font-weight: 500;
       line-height: 1.12;
       letter-spacing: -.02em;
       margin: 0 0 .55rem;
+      overflow-wrap: break-word;
     }
     .byline {
       margin: 0 0 .35rem;
@@ -272,6 +273,7 @@
       font-variant-numeric: tabular-nums;
       color: var(--quiet);
       font-size: .78rem;
+      flex-shrink: 0;
       min-width: 7.4rem;
       text-align: right;
     }
@@ -344,13 +346,19 @@
     }
 
     @media (max-width: 640px) {
-      .app { padding: 1.25rem 1rem calc(var(--dock-h) + 2.4rem); }
-      header.hero { grid-template-columns: 96px 1fr; gap: 1rem; }
-      .cover-wrap { width: 96px; }
-      .hero h1 { font-size: 1.35rem; }
-      .transport { grid-template-columns: auto 1fr auto; gap: .45rem; }
-      .times { min-width: 0; font-size: .72rem; }
-      .seek-wrap { gap: .4rem; }
+      .app { padding: 1.25rem 1rem calc(var(--dock-h) + 2.8rem); }
+      header.hero { grid-template-columns: 92px minmax(0, 1fr); gap: 1rem; }
+      .cover-wrap { width: 92px; }
+      .hero h1 { font-size: 1.28rem; }
+      .transport {
+        grid-template-columns: 1fr auto;
+        grid-template-areas: "arrows speed" "seek seek";
+        gap: .45rem .5rem;
+      }
+      .arrows { grid-area: arrows; }
+      .speed { grid-area: speed; align-self: center; }
+      .seek-wrap { grid-area: seek; gap: .4rem; }
+      .times { min-width: 6.6rem; font-size: .72rem; }
     }
   </style>
 </head>
