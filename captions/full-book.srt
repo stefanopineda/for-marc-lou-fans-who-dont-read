@@ -1,50 +1,50 @@
 1
-00:00:00,000 --> 00:00:02,651
+00:00:00,000 --> 00:00:02,884
 This is I've Made Three Million Dollars With
 
 2
-00:00:02,651 --> 00:00:05,303
+00:00:02,884 --> 00:00:05,608
 My Thirty-Six Startups, by Marc Lou. Read by
 
 3
-00:00:05,303 --> 00:00:07,291
-a voice clone of Marc Lou.
+00:00:05,608 --> 00:00:08,978
+a voice clone of Marc Lou. Monday,
 
 4
-00:00:08,041 --> 00:00:10,619
-Monday, September 7th,
+00:00:08,978 --> 00:00:11,478
+September 7th, 2026
 
 5
-00:00:10,619 --> 00:00:13,922
-2026 Today is a special day
+00:00:12,198 --> 00:00:15,589
+Today is a special day for me. I've
 
 6
-00:00:13,922 --> 00:00:17,190
-for me. I've made 3 million dollars
+00:00:15,589 --> 00:00:18,676
+made 3 million dollars with my 36 startups.
 
 7
-00:00:17,190 --> 00:00:20,093
-with my 36 startups. Solo.
+00:00:19,396 --> 00:00:22,022
+Solo. 85 percent
 
 8
-00:00:20,573 --> 00:00:22,988
-85 percent margin.
+00:00:22,022 --> 00:00:25,102
+margin. Bootstrapped. It
 
 9
-00:00:23,468 --> 00:00:26,704
-Bootstrapped. It took 10 years, and I
+00:00:25,102 --> 00:00:27,839
+took 10 years, and I loved every second
 
 10
-00:00:26,704 --> 00:00:29,822
-loved every second of it. Here's my story.
+00:00:27,839 --> 00:00:31,136
+of it. Here's my story. Here's
 
 11
-00:00:30,702 --> 00:00:33,737
-Here's the chart: just over 3 million
+00:00:31,136 --> 00:00:34,430
+the chart: just over 3 million dollars earned
 
 12
-00:00:33,737 --> 00:00:35,904
-dollars earned across the startups.
+00:00:34,430 --> 00:00:35,904
+across the startups.
 
 13
 00:00:37,504 --> 00:00:40,615
@@ -55,1886 +55,1914 @@ Chapter 1. Mark Zuckerberg Aura.
 I graduated in Computer Science in 2016.
 
 15
-00:00:45,200 --> 00:00:47,255
+00:00:45,200 --> 00:00:47,412
 My friends applied for a job in Paris,
 
 16
-00:00:47,255 --> 00:00:49,910
+00:00:47,412 --> 00:00:49,694
 but it didn't feel right to me. My
 
 17
-00:00:49,910 --> 00:00:52,920
-exchange semester in Hong Kong in 2015 transformed
+00:00:49,694 --> 00:00:52,255
+exchange semester in Hong Kong in 2015
 
 18
-00:00:52,920 --> 00:00:56,052
-me. I didn't know what I wanted—I just
+00:00:52,255 --> 00:00:55,124
+transformed me. I didn't know what I
 
 19
-00:00:56,052 --> 00:00:59,351
-didn't want that. On a regular hangover Sunday
+00:00:55,124 --> 00:00:58,453
+wanted—I just didn't want that. On a regular
 
 20
-00:00:59,351 --> 00:01:02,234
-morning, around two in the afternoon. I watched
+00:00:58,453 --> 00:01:01,276
+hangover Sunday morning, around two in the afternoon.
 
 21
-00:01:02,234 --> 00:01:04,944
-The Social Network movie and had an epiphany:
+00:01:01,556 --> 00:01:04,320
+I watched The Social Network movie and had
 
 22
-00:01:04,944 --> 00:01:07,315
-I will be the next Mark Zuckerberg.
+00:01:04,320 --> 00:01:06,547
+an epiphany: I will be the next Mark
 
 23
-00:01:08,035 --> 00:01:11,104
-My secret unicorn idea? Tinder
+00:01:06,547 --> 00:01:09,721
+Zuckerberg. My secret unicorn
 
 24
-00:01:11,104 --> 00:01:14,503
-for sports lovers. I spent an entire
+00:01:09,721 --> 00:01:12,462
+idea? Tinder for sports lovers.
 
 25
-00:01:14,503 --> 00:01:17,863
-year: Learning to code because I was
+00:01:12,942 --> 00:01:16,204
+I spent an entire year: Learning
 
 26
-00:01:17,863 --> 00:01:20,489
-partying instead of studying at the university.
+00:01:16,204 --> 00:01:18,790
+to code because I was partying instead of
 
 27
-00:01:20,969 --> 00:01:23,468
-Asking people to sign an NDA to listen
+00:01:18,790 --> 00:01:22,026
+studying at the university. Asking people
 
 28
-00:01:23,468 --> 00:01:26,495
-to my idea. Designing a logo and
+00:01:22,026 --> 00:01:24,053
+to sign an NDA to listen to my
 
 29
-00:01:26,495 --> 00:01:29,629
-business cards. I was making 10 dollars an
+00:01:24,053 --> 00:01:27,300
+idea. Designing a logo and business cards.
 
 30
-00:01:29,629 --> 00:01:32,491
-hour and believed I was Mark Zuckerberg. To
+00:01:28,000 --> 00:01:29,828
+I was making 10 dollars an hour and
 
 31
-00:01:32,491 --> 00:01:34,577
-pay the bills, I was a waiter in
+00:01:29,828 --> 00:01:32,807
+believed I was Mark Zuckerberg. To pay the
 
 32
-00:01:34,577 --> 00:01:37,555
-a restaurant in Paris. During my shift, a
+00:01:32,807 --> 00:01:35,115
+bills, I was a waiter in a restaurant
 
 33
-00:01:37,555 --> 00:01:40,465
-customer mentioned a new school to learn entrepreneurship.
+00:01:35,115 --> 00:01:38,216
+in Paris. During my shift, a customer mentioned
 
 34
-00:01:41,185 --> 00:01:44,523
-I was lonely, so I registered. The
+00:01:38,216 --> 00:01:41,389
+a new school to learn entrepreneurship. I
 
 35
-00:01:44,523 --> 00:01:46,959
-teacher asked how my startup would make money.
+00:01:41,389 --> 00:01:44,419
+was lonely, so I registered. The
 
 36
-00:01:47,439 --> 00:01:50,218
-I froze. How come I didn't think about
+00:01:44,419 --> 00:01:46,959
+teacher asked how my startup would make money.
 
 37
-00:01:50,218 --> 00:01:53,404
-it after a year of work? My app
+00:01:47,439 --> 00:01:50,388
+I froze. How come I didn't think about
 
 38
-00:01:53,404 --> 00:01:56,782
-was a disaster. Users couldn't even
+00:01:50,388 --> 00:01:53,098
+it after a year of work? My app
 
 39
-00:01:56,782 --> 00:02:00,095
-sign up. And I was the only user.
+00:01:53,098 --> 00:01:55,917
+was a disaster. Users
 
 40
-00:02:00,575 --> 00:02:03,686
-My relationship with my girlfriend wasn't working either.
+00:01:55,917 --> 00:01:59,293
+couldn't even sign up. And I was the
 
 41
-00:02:04,406 --> 00:02:07,352
-On March 10th, 2017, I quit
+00:01:59,293 --> 00:02:02,519
+only user. My relationship with my girlfriend
 
 42
-00:02:07,352 --> 00:02:10,338
-everything. The next week, my parents drove me
+00:02:02,519 --> 00:02:05,626
+wasn't working either. On March 10th,
 
 43
-00:02:10,338 --> 00:02:12,843
-to the airport. I cried in the car.
+00:02:05,626 --> 00:02:08,840
+2017, I quit everything. The next
 
 44
-00:02:13,563 --> 00:02:15,826
-My friend, Sacha, was waiting for me in
+00:02:08,840 --> 00:02:11,202
+week, my parents drove me to the airport.
 
 45
-00:02:15,826 --> 00:02:18,937
-Seoul, South Korea. We raised 100,000 dollars
+00:02:11,682 --> 00:02:14,462
+I cried in the car. My friend, Sacha,
 
 46
-00:02:18,937 --> 00:02:22,059
-from angel investors and built an AI
+00:02:14,462 --> 00:02:16,674
+was waiting for me in Seoul, South Korea.
 
 47
-00:02:22,059 --> 00:02:25,258
-startup with 2 employees. Here's a
+00:02:17,154 --> 00:02:19,902
+We raised 100,000 dollars from angel
 
 48
-00:02:25,258 --> 00:02:27,401
-photo of Sacha and me at Campus Seoul,
+00:02:19,902 --> 00:02:23,017
+investors and built an AI startup with 2
 
 49
-00:02:27,401 --> 00:02:30,515
-a Google space. We were trying to
+00:02:23,017 --> 00:02:26,394
+employees. Here's a photo of Sacha and me
 
 50
-00:02:30,515 --> 00:02:33,735
-reverse-engineer flight ticket pricing to predict future prices.
+00:02:26,394 --> 00:02:29,325
+at Campus Seoul, a Google space. We were
 
 51
-00:02:34,215 --> 00:02:36,754
-9 months later, we had a bad product,
+00:02:29,325 --> 00:02:32,405
+trying to reverse-engineer flight ticket pricing to
 
 52
-00:02:36,754 --> 00:02:39,292
-no income, and I was wearing a shirt
+00:02:32,405 --> 00:02:35,727
+predict future prices. 9 months later, we had
 
 53
-00:02:39,292 --> 00:02:42,218
-every day. So I quit,
+00:02:35,727 --> 00:02:38,079
+a bad product, no income, and I was
 
 54
-00:02:42,218 --> 00:02:45,582
-again. In December 2017, I was
+00:02:38,079 --> 00:02:41,150
+wearing a shirt every day. So I
 
 55
-00:02:45,582 --> 00:02:48,846
-broke, in a foreign country, and had zero
+00:02:41,150 --> 00:02:44,407
+quit, again. In December
 
 56
-00:02:48,846 --> 00:02:51,997
-self-confidence. I started to smoke again I smoked
+00:02:44,407 --> 00:02:47,177
+2017, I was broke, in a foreign country,
 
 57
-00:02:51,997 --> 00:02:54,359
-for 7 years in university and stopped when
+00:02:47,177 --> 00:02:50,464
+and had zero self-confidence. I started to
 
 58
-00:02:54,359 --> 00:02:57,509
-I arrived in Korea After reflection, a pattern
+00:02:50,464 --> 00:02:52,785
+smoke again I smoked for 7 years in
 
 59
-00:02:57,509 --> 00:03:00,464
-started to emerge: Big goals, big failures.
+00:02:52,785 --> 00:02:55,540
+university and stopped when I arrived in Korea
 
 60
-00:03:01,184 --> 00:03:03,859
-I saw an ad on Facebook selling gloves
+00:02:55,820 --> 00:02:59,183
+After reflection, a pattern started to emerge: Big
 
 61
-00:03:03,859 --> 00:03:06,878
-for couples 1 big mitten to hold hands
+00:02:59,183 --> 00:03:02,060
+goals, big failures. I saw an ad on
 
 62
-00:03:06,878 --> 00:03:09,483
-together I decided to copy and sell them
+00:03:02,060 --> 00:03:05,210
+Facebook selling gloves for couples 1 big
 
 63
-00:03:09,483 --> 00:03:12,510
-on Facebook for Koreans. As a product-obsessed
+00:03:05,210 --> 00:03:08,247
+mitten to hold hands together I decided to
 
 64
-00:03:12,510 --> 00:03:15,869
-engineer, I didn't think about dropshipping. I had
+00:03:08,247 --> 00:03:10,614
+copy and sell them on Facebook for Koreans.
 
 65
-00:03:15,869 --> 00:03:19,092
-to build the product. A lovely Korean grandma
+00:03:11,334 --> 00:03:14,107
+As a product-obsessed engineer, I didn't think about
 
 66
-00:03:19,092 --> 00:03:22,399
-knitted 50 Glovers: Gloves for Lovers I was
+00:03:14,107 --> 00:03:16,922
+dropshipping. I had to build the product.
 
 67
-00:03:22,399 --> 00:03:25,049
-quite proud of the name It took a
+00:03:17,402 --> 00:03:20,409
+A lovely Korean grandma knitted 50 Glovers:
 
 68
-00:03:25,049 --> 00:03:26,974
-month and a half to knit 50 Glovers.
+00:03:20,409 --> 00:03:23,126
+Gloves for Lovers I was quite proud of
 
 69
-00:03:27,674 --> 00:03:30,553
-My new Korean girlfriend helped with the translation.
+00:03:23,126 --> 00:03:25,615
+the name It took a month and a
 
 70
-00:03:31,033 --> 00:03:33,469
-I burned all of my savings on Facebook
+00:03:25,615 --> 00:03:28,378
+half to knit 50 Glovers. My new Korean
 
 71
-00:03:33,469 --> 00:03:36,794
-Ads a few hundred dollars with this video.
+00:03:28,378 --> 00:03:31,659
+girlfriend helped with the translation. I burned
 
 72
-00:03:37,274 --> 00:03:40,375
-I made 0 sales. In
+00:03:31,659 --> 00:03:34,200
+all of my savings on Facebook Ads a
 
 73
-00:03:40,375 --> 00:03:43,381
-January 2018, my 8-square-meter bedroom was filled
+00:03:34,200 --> 00:03:37,574
+few hundred dollars with this video. I
 
 74
-00:03:43,381 --> 00:03:46,388
-with Glovers, but my bank account was
+00:03:37,574 --> 00:03:40,738
+made 0 sales. In January
 
 75
-00:03:46,388 --> 00:03:49,016
-empty. At 20 dollars per piece, I had
+00:03:40,738 --> 00:03:44,086
+2018, my 8-square-meter bedroom was filled with
 
 76
-00:03:49,016 --> 00:03:51,464
-to sell them to pay the rent. My
+00:03:44,086 --> 00:03:47,447
+Glovers, but my bank account was empty. At
 
 77
-00:03:51,464 --> 00:03:53,465
-girlfriend and I went down the street every
+00:03:47,447 --> 00:03:49,539
+20 dollars per piece, I had to sell
 
 78
-00:03:53,465 --> 00:03:56,338
-night to sell them. To brave the minus
+00:03:49,539 --> 00:03:52,117
+them to pay the rent. My girlfriend and
 
 79
-00:03:56,338 --> 00:03:58,645
-15 degrees Korean winter, we had to drink
+00:03:52,117 --> 00:03:53,983
+I went down the street every night to
 
 80
-00:03:58,645 --> 00:04:00,952
-1 liter of beer before standing in the
+00:03:53,983 --> 00:03:56,915
+sell them. To brave the minus 15 degrees
 
 81
-00:04:00,952 --> 00:04:03,859
-street for 2 hours. We would sell 2
+00:03:56,915 --> 00:03:59,150
+Korean winter, we had to drink 1 liter
 
 82
-00:04:03,859 --> 00:04:07,019
-gloves per day. I would wake up sick
+00:03:59,150 --> 00:04:01,600
+of beer before standing in the street for
 
 83
-00:04:07,019 --> 00:04:10,132
-and coughing. What the fuck I am doing
+00:04:01,600 --> 00:04:04,547
+2 hours. We would sell 2 gloves per
 
 84
-00:04:10,132 --> 00:04:13,265
-with my life? Chapter
+00:04:04,547 --> 00:04:07,709
+day. I would wake up sick and coughing.
 
 85
-00:04:13,265 --> 00:04:16,526
-2. She said "Yes". In
+00:04:08,429 --> 00:04:10,642
+What the fuck I am doing with my
 
 86
-00:04:16,526 --> 00:04:19,365
-April 2018, I was more broke than ever,
+00:04:10,642 --> 00:04:13,951
+life? Chapter 2.
 
 87
-00:04:19,365 --> 00:04:22,762
-out of shape, and unhealthy. I needed a
+00:04:13,951 --> 00:04:17,345
+She said "Yes". In April 2018, I
 
 88
-00:04:22,762 --> 00:04:25,730
-big change. Marc in April
+00:04:17,345 --> 00:04:20,056
+was more broke than ever, out of shape,
 
 89
-00:04:25,730 --> 00:04:28,702
-2018, before changing his exercise habits.
+00:04:20,056 --> 00:04:22,923
+and unhealthy. I needed a big
 
 90
-00:04:29,402 --> 00:04:31,665
-I applied for a second acting role to
+00:04:22,923 --> 00:04:26,279
+change. Marc in April 2018, before
 
 91
-00:04:31,665 --> 00:04:34,428
-pay the bills. I would get a call
+00:04:26,279 --> 00:04:29,547
+changing his exercise habits. I
 
 92
-00:04:34,428 --> 00:04:36,723
-once or twice a week and get paid
+00:04:29,547 --> 00:04:31,935
+applied for a second acting role to pay
 
 93
-00:04:36,723 --> 00:04:39,619
-200 dollars per gig. Then I started to
+00:04:31,935 --> 00:04:34,647
+the bills. I would get a call once
 
 94
-00:04:39,619 --> 00:04:42,158
-work out every 2 days for clarity of
+00:04:34,647 --> 00:04:36,796
+or twice a week and get paid 200
 
 95
-00:04:42,158 --> 00:04:45,316
-mind—20 minutes of intense jumping rope. I got
+00:04:36,796 --> 00:04:39,741
+dollars per gig. Then I started to work
 
 96
-00:04:45,316 --> 00:04:48,397
-shredded in 1 month. Finally, I
+00:04:39,741 --> 00:04:42,085
+out every 2 days for clarity of mind—20
 
 97
-00:04:48,397 --> 00:04:51,647
-set a simple goal: Make 1 dollar online
+00:04:42,085 --> 00:04:45,070
+minutes of intense jumping rope. I got
 
 98
-00:04:51,647 --> 00:04:54,852
-with code. To avoid another failure,
+00:04:45,070 --> 00:04:48,462
+shredded in 1 month. Finally, I
 
 99
-00:04:54,852 --> 00:04:57,360
-I focused on problems, not products.
+00:04:48,462 --> 00:04:51,680
+set a simple goal: Make 1 dollar online
 
 100
-00:04:57,840 --> 00:05:01,121
-Every business wants to grow. So I
+00:04:51,680 --> 00:04:55,065
+with code. To avoid another failure, I
 
 101
-00:05:01,121 --> 00:05:03,970
-decided to build a gamified marketing tool for
+00:04:55,065 --> 00:04:58,275
+focused on problems, not products. Every
 
 102
-00:05:03,970 --> 00:05:07,077
-escape rooms. At a startup event, I
+00:04:58,275 --> 00:05:01,419
+business wants to grow. So I decided to
 
 103
-00:05:07,077 --> 00:05:09,757
-met Andrey, a talented marketer who became my
+00:05:01,419 --> 00:05:04,682
+build a gamified marketing tool for escape rooms.
 
 104
-00:05:09,757 --> 00:05:12,434
-friend. He said: Why don't you sell it
+00:05:05,402 --> 00:05:07,596
+At a startup event, I met Andrey, a
 
 105
-00:05:12,434 --> 00:05:15,379
-before you make it? I'm an engineer.
+00:05:07,596 --> 00:05:10,730
+talented marketer who became my friend. He
 
 106
-00:05:15,859 --> 00:05:19,157
-I love building. Marketing? Not
+00:05:10,730 --> 00:05:13,024
+said: Why don't you sell it before you
 
 107
-00:05:19,157 --> 00:05:21,981
-at all. But I failed for 2 years,
+00:05:13,024 --> 00:05:16,051
+make it? I'm an engineer. I
 
 108
-00:05:21,981 --> 00:05:25,077
-so I decided to listen. He taught me
+00:05:16,051 --> 00:05:19,373
+love building. Marketing? Not at
 
 109
-00:05:25,077 --> 00:05:28,205
-the foundation of marketing. After a few cold
+00:05:19,373 --> 00:05:22,081
+all. But I failed for 2 years, so
 
 110
-00:05:28,205 --> 00:05:30,635
-emails, Daniela from Time's Up Escape Rooms in
+00:05:22,081 --> 00:05:24,961
+I decided to listen. He taught me the
 
 111
-00:05:30,635 --> 00:05:33,066
-Australia wanted to learn more about the product
+00:05:24,961 --> 00:05:28,353
+foundation of marketing. After a few cold emails,
 
 112
-00:05:33,066 --> 00:05:36,387
-over a quick call. Marc taking a selfie
+00:05:28,353 --> 00:05:31,078
+Daniela from Time's Up Escape Rooms in Australia
 
 113
-00:05:36,387 --> 00:05:39,769
-in his small bedroom in Korea. On Friday
+00:05:31,078 --> 00:05:33,531
+wanted to learn more about the product over
 
 114
-00:05:39,769 --> 00:05:43,139
-13th, 2018, I was in Osaka, Japan for
+00:05:33,531 --> 00:05:36,621
+a quick call. Marc taking a selfie in
 
 115
-00:05:43,139 --> 00:05:46,372
-a 3-day visa run. I just had a
+00:05:36,621 --> 00:05:39,889
+his small bedroom in Korea. On Friday
 
 116
-00:05:46,372 --> 00:05:48,508
-bad night of sleep in the cheapest guest
+00:05:39,889 --> 00:05:43,259
+13th, 2018, I was in Osaka, Japan for
 
 117
-00:05:48,508 --> 00:05:51,403
-house I could afford. Nine in the morning.
+00:05:43,259 --> 00:05:46,062
+a 3-day visa run. I just had a
 
 118
-00:05:51,883 --> 00:05:54,245
-I was in the common area, it was
+00:05:46,062 --> 00:05:48,336
+bad night of sleep in the cheapest guest
 
 119
-00:05:54,245 --> 00:05:57,270
-hot, and the wifi was bad. The call
+00:05:48,336 --> 00:05:51,403
+house I could afford. Nine in the morning.
 
 120
-00:05:57,270 --> 00:06:00,555
-started. There are no words to describe how
+00:05:51,883 --> 00:05:54,231
+I was in the common area, it was
 
 121
-00:06:00,555 --> 00:06:03,536
-cringe I was. So here's the intro of
+00:05:54,231 --> 00:05:57,077
+hot, and the wifi was bad. The call
 
 122
-00:06:03,536 --> 00:06:06,659
-the sales pitch. After 42 minutes, she
+00:05:57,077 --> 00:06:00,372
+started. There are no words to describe
 
 123
-00:06:06,659 --> 00:06:09,683
-said yes. By the end of the day,
+00:06:00,372 --> 00:06:03,222
+how cringe I was. So here's the intro
 
 124
-00:06:09,683 --> 00:06:11,938
-she subscribed to the 99 dollars monthly plan.
+00:06:03,222 --> 00:06:06,446
+of the sales pitch. After 42 minutes,
 
 125
-00:06:12,418 --> 00:06:15,785
-Yes. I went back to Korea and built
+00:06:06,446 --> 00:06:08,941
+she said yes. By the end of the
 
 126
-00:06:15,785 --> 00:06:18,970
-the product. That call started a SaaS
+00:06:08,941 --> 00:06:11,646
+day, she subscribed to the 99 dollars monthly
 
 127
-00:06:18,970 --> 00:06:22,216
-business called VirallyBot. It made about
+00:06:11,646 --> 00:06:14,741
+plan. Yes! I went back to
 
 128
-00:06:22,216 --> 00:06:25,221
-100,000 dollars Here's a photo of thirty thousand
+00:06:14,741 --> 00:06:18,014
+Korea and built the product. That call started
 
 129
-00:06:25,221 --> 00:06:28,502
-dollars in an old PayPal account. 1 call
+00:06:18,014 --> 00:06:21,400
+a SaaS business called VirallyBot. It made
 
 130
-00:06:28,502 --> 00:06:30,417
-paid the bills for 5 years.
+00:06:21,400 --> 00:06:24,794
+about 100,000 dollars Here's a photo of thirty
 
 131
-00:06:32,017 --> 00:06:34,571
-Chapter 3. Growing a SaaS.
+00:06:24,794 --> 00:06:28,092
+thousand dollars in an old PayPal account. 1
 
 132
-00:06:35,471 --> 00:06:38,173
-After making my first 1 dollar online in
+00:06:28,092 --> 00:06:30,464
+call paid the bills for 5 years.
 
 133
-00:06:38,173 --> 00:06:40,875
-2018, my Korean girlfriend and I had no
+00:06:32,064 --> 00:06:34,618
+Chapter 3. Growing a SaaS.
 
 134
-00:06:40,875 --> 00:06:44,112
-reason to stay in Seoul anymore. We'd rather
+00:06:35,518 --> 00:06:38,264
+After making my first 1 dollar online in
 
 135
-00:06:44,112 --> 00:06:47,491
-be somewhere hot and cheap. So we moved
+00:06:38,264 --> 00:06:40,849
+2018, my Korean girlfriend and I had no
 
 136
-00:06:47,491 --> 00:06:50,817
-to Bali in September. I was working
+00:06:40,849 --> 00:06:44,170
+reason to stay in Seoul anymore. We'd rather
 
 137
-00:06:50,817 --> 00:06:53,946
-on VirallyBot: a gamified marketing tool for escape
+00:06:44,170 --> 00:06:47,331
+be somewhere hot and cheap. So we moved
 
 138
-00:06:53,946 --> 00:06:57,074
-room businesses, priced at 199 dollars a month.
+00:06:47,331 --> 00:06:50,630
+to Bali in September. I was working
 
 139
-00:06:57,554 --> 00:07:00,791
-A typical day would be: Marketing in
+00:06:50,630 --> 00:06:53,602
+on VirallyBot: a gamified marketing tool for
 
 140
-00:07:00,791 --> 00:07:03,615
-the morning: Collecting leads and sending cold emails.
+00:06:53,602 --> 00:06:56,730
+escape room businesses, priced at 199 dollars a
 
 141
-00:07:03,955 --> 00:07:06,082
-I tried cold calls, but it was not
+00:06:56,730 --> 00:06:59,412
+month. A typical day would be:
 
 142
-00:07:06,082 --> 00:07:09,218
-working for me. Product in the afternoon: Adding
+00:07:00,132 --> 00:07:03,032
+Marketing in the morning: Collecting leads and sending
 
 143
-00:07:09,218 --> 00:07:12,190
-games and features while learning how to code.
+00:07:03,032 --> 00:07:05,577
+cold emails. I tried cold calls, but it
 
 144
-00:07:12,890 --> 00:07:15,398
-We lived in Canggu with 2 roommates.
+00:07:05,577 --> 00:07:08,299
+was not working for me. Product in the
 
 145
-00:07:16,098 --> 00:07:19,224
-Life was good. I was not living
+00:07:08,299 --> 00:07:11,568
+afternoon: Adding games and features while learning
 
 146
-00:07:19,224 --> 00:07:22,395
-in a bug-infested room anymore. I learned how
+00:07:11,568 --> 00:07:14,525
+how to code. We lived in Canggu with
 
 147
-00:07:22,395 --> 00:07:25,234
-to surf, and the SaaS was making 1,500
+00:07:14,525 --> 00:07:17,491
+2 roommates. Life was good.
 
 148
-00:07:25,234 --> 00:07:28,293
-dollars a month. But churn
+00:07:17,971 --> 00:07:20,385
+I was not living in a bug-infested room
 
 149
-00:07:28,293 --> 00:07:31,606
-was high. To earn money with my software,
+00:07:20,385 --> 00:07:23,545
+anymore. I learned how to surf, and the
 
 150
-00:07:31,606 --> 00:07:34,455
-escape rooms had to use it. Most
+00:07:23,545 --> 00:07:26,346
+SaaS was making 1,500 dollars a month.
 
 151
-00:07:34,455 --> 00:07:37,664
-didn't. I felt like on a treadmill:
+00:07:27,226 --> 00:07:30,383
+But churn was high. To earn
 
 152
-00:07:37,664 --> 00:07:40,688
-New customer, new churn. So I offered
+00:07:30,383 --> 00:07:32,998
+money with my software, escape rooms had to
 
 153
-00:07:40,688 --> 00:07:43,764
-a yearly plan for 1,999 dollars and
+00:07:32,998 --> 00:07:36,310
+use it. Most didn't. I felt
 
 154
-00:07:43,764 --> 00:07:47,043
-got some sales. My revenue hit
+00:07:36,310 --> 00:07:38,937
+like on a treadmill: New customer, new churn.
 
 155
-00:07:47,043 --> 00:07:50,284
-3,000 dollars in early 2020. But
+00:07:39,417 --> 00:07:42,712
+So I offered a yearly plan for 1,999
 
 156
-00:07:50,284 --> 00:07:52,637
-I was just running faster on the treadmill.
+00:07:42,712 --> 00:07:45,841
+dollars and got some sales. My
 
 157
-00:07:53,357 --> 00:07:56,515
-So I built a new product called GameWidget:
+00:07:45,841 --> 00:07:49,093
+revenue hit 3,000 dollars in early
 
 158
-00:07:56,515 --> 00:07:59,673
-An embedded mini-game on websites to entertain visitors
+00:07:49,093 --> 00:07:51,870
+2020. But I was just running faster on
 
 159
-00:07:59,673 --> 00:08:03,009
-and offer discount coupons. Winners of the game
+00:07:51,870 --> 00:07:54,953
+the treadmill. So I built a new product
 
 160
-00:08:03,009 --> 00:08:05,083
-get a discount coupon for the escape rooms.
+00:07:54,953 --> 00:07:58,348
+called GameWidget: An embedded mini-game on websites to
 
 161
-00:08:05,783 --> 00:08:08,773
-Same market escape rooms and
+00:07:58,348 --> 00:08:01,299
+entertain visitors and offer discount coupons.
 
 162
-00:08:08,773 --> 00:08:11,778
-same strategy gamification marketing
+00:08:02,019 --> 00:08:04,113
+Winners of the game get a discount coupon
 
 163
-00:08:12,058 --> 00:08:15,236
-but different fulfillment. Instead
+00:08:04,113 --> 00:08:07,486
+for the escape rooms. Same market escape
 
 164
-00:08:15,236 --> 00:08:17,500
-of using the software, my customers just had
+00:08:07,486 --> 00:08:09,873
+rooms and same strategy
 
 165
-00:08:17,500 --> 00:08:19,765
-to add a script to their sites and
+00:08:10,153 --> 00:08:13,365
+gamification marketing but different
 
 166
-00:08:19,765 --> 00:08:22,987
-let the magic happen. I beta-tested the product
+00:08:13,365 --> 00:08:16,689
+fulfillment. Instead of using the software,
 
 167
-00:08:22,987 --> 00:08:25,727
-for 2 months and the results were impressive:
+00:08:16,689 --> 00:08:18,783
+my customers just had to add a script
 
 168
-00:08:25,727 --> 00:08:28,747
-+0.6 percent conversion rate 3 percent is considered
+00:08:18,783 --> 00:08:20,944
+to their sites and let the magic happen.
 
 169
-00:08:28,747 --> 00:08:31,558
-great in the industry I was excited.
+00:08:21,664 --> 00:08:24,041
+I beta-tested the product for 2 months and
 
 170
-00:08:33,338 --> 00:08:35,753
-Chapter 4. Failing life.
+00:08:24,041 --> 00:08:27,144
+the results were impressive: +0.6 percent conversion rate
 
 171
-00:08:36,653 --> 00:08:39,708
-When COVID hit in March 2020, all
+00:08:27,424 --> 00:08:30,164
+3 percent is considered great in the industry
 
 172
-00:08:39,708 --> 00:08:43,020
-escape rooms closed. My revenue went to 0
+00:08:30,444 --> 00:08:31,605
+I was excited.
 
 173
-00:08:43,020 --> 00:08:46,154
-dollars in a week. I was fortunate to
+00:08:33,385 --> 00:08:35,800
+Chapter 4. Failing life.
 
 174
-00:08:46,154 --> 00:08:48,545
-be in Bali because I met Hugues, who
+00:08:36,700 --> 00:08:39,948
+When COVID hit in March 2020, all escape
 
 175
-00:08:48,545 --> 00:08:51,471
-became my best friend. We spent 6 months
+00:08:39,948 --> 00:08:43,001
+rooms closed. My revenue went to 0
 
 176
-00:08:51,471 --> 00:08:54,850
-surfing empty waves and talking about life. We
+00:08:43,001 --> 00:08:46,220
+dollars in a week. I was fortunate to
 
 177
-00:08:54,850 --> 00:08:57,211
-surfed 6-9-foot waves in tandem.
+00:08:46,220 --> 00:08:48,421
+be in Bali because I met Hugues, who
 
 178
-00:08:57,911 --> 00:09:00,687
-Just like my girlfriend, he never judged me—I
+00:08:48,421 --> 00:08:51,279
+became my best friend. We spent 6 months
 
 179
-00:09:00,687 --> 00:09:03,462
-could show him every weird side of my
+00:08:51,279 --> 00:08:54,635
+surfing empty waves and talking about life. We
 
 180
-00:09:03,462 --> 00:09:06,537
-personality. Thanks to them, I stopped caring about
+00:08:54,635 --> 00:08:57,258
+surfed 6-9-foot waves in tandem.
 
 181
-00:09:06,537 --> 00:09:09,678
-what others think of me. In the summer
+00:08:57,958 --> 00:09:00,716
+Just like my girlfriend, he never judged me—I
 
 182
-00:09:09,678 --> 00:09:11,850
-of 2020, my girlfriend and I decided to
+00:09:00,716 --> 00:09:03,013
+could show him every weird side of my
 
 183
-00:09:11,850 --> 00:09:15,108
-get married. We flew back to France. My
+00:09:03,013 --> 00:09:06,376
+personality. Thanks to them, I stopped caring
 
 184
-00:09:15,108 --> 00:09:18,395
-Korean parents did too. The wedding was
+00:09:06,376 --> 00:09:09,243
+about what others think of me. In the
 
 185
-00:09:18,395 --> 00:09:21,659
-wonderful. Unfortunately, we couldn't go back to
+00:09:09,243 --> 00:09:11,641
+summer of 2020, my girlfriend and I decided
 
 186
-00:09:21,659 --> 00:09:24,859
-Bali due to COVID restrictions. We lived in
+00:09:11,641 --> 00:09:14,313
+to get married. We flew back to France.
 
 187
-00:09:24,859 --> 00:09:26,933
-Paris with my parents and sisters for 1
+00:09:14,793 --> 00:09:18,154
+My Korean parents did too. The wedding was
 
 188
-00:09:26,933 --> 00:09:30,224
-year. I worked on my previous SaaS and
+00:09:18,154 --> 00:09:21,512
+wonderful. Unfortunately, we couldn't go back
 
 189
-00:09:30,224 --> 00:09:32,865
-got it back to 1,000 dollars MRR, but
+00:09:21,512 --> 00:09:24,601
+to Bali due to COVID restrictions. We lived
 
 190
-00:09:32,865 --> 00:09:35,991
-something was off. I didn't like it anymore,
+00:09:24,601 --> 00:09:26,833
+in Paris with my parents and sisters for
 
 191
-00:09:35,991 --> 00:09:39,310
-so I quit. After a few months of
+00:09:26,833 --> 00:09:29,997
+1 year. I worked on my previous SaaS
 
 192
-00:09:39,310 --> 00:09:41,558
-nothingness, I had to start something new.
+00:09:29,997 --> 00:09:32,375
+and got it back to 1,000 dollars MRR,
 
 193
-00:09:42,038 --> 00:09:45,382
-Anything. So I launched The Golden Plumber
+00:09:32,375 --> 00:09:35,612
+but something was off. I didn't like it
 
 194
-00:09:45,382 --> 00:09:48,553
-in January 2021. Males often dribble after
+00:09:35,612 --> 00:09:38,914
+anymore, so I quit. After a few months
 
 195
-00:09:48,553 --> 00:09:50,968
-going to the toilet, due to the nature
+00:09:38,914 --> 00:09:41,605
+of nothingness, I had to start something new.
 
 196
-00:09:50,968 --> 00:09:53,833
-of our engine—as my sister explained she's a
+00:09:42,085 --> 00:09:45,482
+Anything. So I launched The Golden Plumber
 
 197
-00:09:53,833 --> 00:09:56,870
-doctor Entrepreneurship at its peak.
+00:09:45,482 --> 00:09:48,850
+in January 2021. Males often dribble after
 
 198
-00:09:57,570 --> 00:10:00,776
-I created an info-product 2-page
+00:09:48,850 --> 00:09:50,838
+going to the toilet, due to the nature
 
 199
-00:10:00,776 --> 00:10:04,160
-PDF and ran ads on adult
+00:09:50,838 --> 00:09:53,687
+of our engine—as my sister explained she's a
 
 200
-00:10:04,160 --> 00:10:07,480
-websites. I made 4 dollars in 2 months.
+00:09:53,687 --> 00:09:56,917
+doctor Entrepreneurship at its peak.
 
 201
-00:10:07,960 --> 00:10:11,133
-I quit, again. My parents gave
+00:09:57,617 --> 00:09:59,568
+I created an info-product
 
 202
-00:10:11,133 --> 00:10:14,479
-me 100,000 dollars as an early legacy. I
+00:09:59,848 --> 00:10:03,036
+2-page PDF and ran ads
 
 203
-00:10:14,479 --> 00:10:17,649
-invested everything in Tesla in March 2021, when
+00:10:03,036 --> 00:10:05,885
+on adult websites. I made 4
 
 204
-00:10:17,649 --> 00:10:20,790
-the stock hit an all-time high. I
+00:10:05,885 --> 00:10:08,767
+dollars in 2 months. I quit,
 
 205
-00:10:20,790 --> 00:10:23,053
-refused to use the money for at least
+00:10:08,767 --> 00:10:11,844
+again. My parents gave me 100,000
 
 206
-00:10:23,053 --> 00:10:26,328
-20 years. I still believe it's not mine.
+00:10:11,844 --> 00:10:15,031
+dollars as an early legacy. I invested
 
 207
-00:10:27,048 --> 00:10:30,151
-2 weeks later, my portfolio went down
+00:10:15,031 --> 00:10:18,183
+everything in Tesla in March 2021, when the
 
 208
-00:10:30,151 --> 00:10:33,286
-by minus 36,000 dollars. I was
+00:10:18,183 --> 00:10:21,432
+stock hit an all-time high. I refused to
 
 209
-00:10:33,286 --> 00:10:35,853
-27 years old, broke, and living with my
+00:10:21,432 --> 00:10:23,666
+use the money for at least 20 years.
 
 210
-00:10:35,853 --> 00:10:38,697
-parents. A recurring thought started to echo:
+00:10:24,146 --> 00:10:27,290
+I still believe it's not mine. 2
 
 211
-00:10:39,417 --> 00:10:42,542
-I am a failure… Here's a photo of
+00:10:27,290 --> 00:10:30,313
+weeks later, my portfolio went down by
 
 212
-00:10:42,542 --> 00:10:44,337
-the four holes I dug in the wall.
+00:10:30,313 --> 00:10:33,700
+minus 36,000 dollars. I was 27 years
 
 213
-00:10:45,037 --> 00:10:48,184
-On Wednesday, 9th, June 2021, while drinking a
+00:10:33,700 --> 00:10:36,833
+old, broke, and living with my parents. A
 
 214
-00:10:48,184 --> 00:10:51,332
-morning coffee in my bedroom, I started to
+00:10:36,833 --> 00:10:40,086
+recurring thought started to echo: I am a
 
 215
-00:10:51,332 --> 00:10:54,387
-cry. Sadness turned to anger, and I
+00:10:40,086 --> 00:10:43,441
+failure… Here's a photo of the four holes
 
 216
-00:10:54,387 --> 00:10:56,570
-dug 4 holes in the wall.
+00:10:43,441 --> 00:10:46,332
+I dug in the wall. On Wednesday, 9th,
 
 217
-00:10:58,350 --> 00:11:01,090
-Chapter 5. Overcoming depression.
+00:10:46,332 --> 00:10:49,721
+June 2021, while drinking a morning coffee in
 
 218
-00:11:01,990 --> 00:11:04,428
-It's not common to see a 27-year-old boy
+00:10:49,721 --> 00:10:52,946
+my bedroom, I started to cry. Sadness
 
 219
-00:11:04,428 --> 00:11:06,866
-crying in his mum's arms on the sofa.
+00:10:52,946 --> 00:10:55,724
+turned to anger, and I dug 4 holes
 
 220
-00:11:07,346 --> 00:11:10,453
-But life isn't like movies. I
+00:10:55,724 --> 00:10:59,057
+in the wall. Chapter
 
 221
-00:11:10,453 --> 00:11:13,445
-needed a change, a big one: Quit
+00:10:59,057 --> 00:11:02,284
+5. Overcoming depression. It's
 
 222
-00:11:13,445 --> 00:11:16,700
-entrepreneurship and get a job. Within
+00:11:02,284 --> 00:11:05,094
+not common to see a 27-year-old boy crying
 
 223
-00:11:16,700 --> 00:11:19,329
-2 weeks of applying as a software engineer,
+00:11:05,094 --> 00:11:07,724
+in his mum's arms on the sofa. But
 
 224
-00:11:19,329 --> 00:11:22,106
-I got an interview. At the end, HR
+00:11:07,724 --> 00:11:11,084
+life isn't like movies. I needed a
 
 225
-00:11:22,106 --> 00:11:24,069
-asked: Do you want to say anything to
+00:11:11,084 --> 00:11:13,392
+change, a big one: Quit
 
 226
-00:11:24,069 --> 00:11:27,017
-Tai Lopez? It wasn't written on the application,
+00:11:13,392 --> 00:11:15,697
+entrepreneurship and get a job.
 
 227
-00:11:27,017 --> 00:11:29,653
-but it was a 9,000 dollars a month
+00:11:16,417 --> 00:11:18,952
+Within 2 weeks of applying as a software
 
 228
-00:11:29,653 --> 00:11:33,021
-job offer to work for Tai Lopez. I
+00:11:18,952 --> 00:11:21,755
+engineer, I got an interview. At the end,
 
 229
-00:11:33,021 --> 00:11:36,163
-accepted. I started reading. I
+00:11:21,755 --> 00:11:23,875
+HR asked: Do you want to say anything
 
 230
-00:11:36,163 --> 00:11:38,516
-thought I hated books because it was boring
+00:11:23,875 --> 00:11:26,670
+to Tai Lopez? It wasn't written on the
 
 231
-00:11:38,516 --> 00:11:41,446
-in high school. It turned out to be
+00:11:26,670 --> 00:11:29,505
+application, but it was a 9,000 dollars a
 
 232
-00:11:41,446 --> 00:11:44,492
-my favorite activity. My first book was "Why
+00:11:29,505 --> 00:11:32,006
+month job offer to work for Tai Lopez.
 
 233
-00:11:44,492 --> 00:11:47,642
-We Sleep" by Matthew Walker. It changed my
+00:11:32,486 --> 00:11:35,435
+I accepted. I started reading.
 
 234
-00:11:47,642 --> 00:11:50,908
-life. I realized I was tired without
+00:11:35,915 --> 00:11:38,199
+I thought I hated books because it was
 
 235
-00:11:50,908 --> 00:11:53,910
-knowing it. Fixing my sleep unlocked
+00:11:38,199 --> 00:11:40,913
+boring in high school. It turned out to
 
 236
-00:11:53,910 --> 00:11:56,474
-more motivation, happiness, and less anxiety.
+00:11:40,913 --> 00:11:44,079
+be my favorite activity. My first book was
 
 237
-00:11:57,194 --> 00:11:59,588
-While I worked for Tai, I also learned
+00:11:44,079 --> 00:11:46,829
+"Why We Sleep" by Matthew Walker. It
 
 238
-00:11:59,588 --> 00:12:02,602
-Korean. 1 hour a day, 6 days a
+00:11:46,829 --> 00:11:49,871
+changed my life. I realized I was
 
 239
-00:12:02,602 --> 00:12:05,588
-week. 3 months later, I could have a
+00:11:49,871 --> 00:11:53,205
+tired without knowing it. Fixing my sleep
 
 240
-00:12:05,588 --> 00:12:08,617
-conversation with my wife. My mood
+00:11:53,205 --> 00:11:56,520
+unlocked more motivation, happiness, and less anxiety.
 
 241
-00:12:08,617 --> 00:12:11,901
-improved every day. I was growing, and
+00:11:57,240 --> 00:11:59,508
+While I worked for Tai, I also learned
 
 242
-00:12:11,901 --> 00:12:15,105
-I finally had a sense of purpose. In
+00:11:59,508 --> 00:12:02,523
+Korean. 1 hour a day, 6 days a
 
 243
-00:12:15,105 --> 00:12:17,953
-October 2021, we went back home to Bali
+00:12:02,523 --> 00:12:05,309
+week. 3 months later, I could have a
 
 244
-00:12:18,833 --> 00:12:21,227
-A laptop beside the window at home in
+00:12:05,309 --> 00:12:08,326
+conversation with my wife. My mood
 
 245
-00:12:21,227 --> 00:12:24,316
-Bali. In November, I got fired.
+00:12:08,326 --> 00:12:11,664
+improved every day. I was growing,
 
 246
-00:12:25,036 --> 00:12:28,207
-But it didn't matter. I was so inspired
+00:12:11,664 --> 00:12:14,075
+and I finally had a sense of purpose.
 
 247
-00:12:28,207 --> 00:12:30,895
-by Pieter Levels building startups in public that
+00:12:14,795 --> 00:12:17,611
+In October 2021, we went back home to
 
 248
-00:12:30,895 --> 00:12:34,031
-I went back to entrepreneurship. I had a
+00:12:17,611 --> 00:12:20,803
+Bali A laptop beside the window at
 
 249
-00:12:34,031 --> 00:12:36,971
-new dream. Chapter
+00:12:20,803 --> 00:12:23,840
+home in Bali. In November, I got
 
 250
-00:12:36,971 --> 00:12:40,217
-6. Just for fun. When
+00:12:23,840 --> 00:12:27,043
+fired. But it didn't matter. I
 
 251
-00:12:40,217 --> 00:12:42,645
-there isn't much happening in your life, it's
+00:12:27,043 --> 00:12:29,933
+was so inspired by Pieter Levels building startups
 
 252
-00:12:42,645 --> 00:12:45,632
-hard to find a startup idea. I was
+00:12:29,933 --> 00:12:32,621
+in public that I went back to entrepreneurship.
 
 253
-00:12:45,632 --> 00:12:48,381
-so frustrated with my previous years of go-big-or-go-home
+00:12:33,101 --> 00:12:34,727
+I had a new dream.
 
 254
-00:12:48,381 --> 00:12:51,131
-mindset that I needed a simple project everyone
+00:12:36,507 --> 00:12:39,061
+Chapter 6. Just for fun.
 
 255
-00:12:51,131 --> 00:12:54,140
-could understand. In December 2021,
+00:12:39,961 --> 00:12:42,604
+When there isn't much happening in your life,
 
 256
-00:12:54,140 --> 00:12:57,223
-Mood2Movie was born. A movie recommendation
+00:12:42,604 --> 00:12:45,119
+it's hard to find a startup idea. I
 
 257
-00:12:57,223 --> 00:13:00,460
-app based on your mood. It sounds fancy,
+00:12:45,119 --> 00:12:47,410
+was so frustrated with my previous years of
 
 258
-00:13:00,460 --> 00:13:03,033
-but it's just a simple if
+00:12:47,410 --> 00:12:50,401
+go-big-or-go-home mindset that I needed a simple project
 
 259
-00:13:03,273 --> 00:13:06,288
-mood then movie genre.
+00:12:50,401 --> 00:12:53,619
+everyone could understand. In December
 
 260
-00:13:06,988 --> 00:13:10,230
-This app got 20K+ visitors by going viral
+00:12:53,619 --> 00:12:56,707
+2021, Mood2Movie was born. A movie
 
 261
-00:13:10,230 --> 00:13:13,582
-on Hacker News. This project kickstarted
+00:12:56,707 --> 00:12:59,714
+recommendation app based on your mood. It
 
 262
-00:13:13,582 --> 00:13:16,775
-my build-in-public journey. The app is free, so
+00:12:59,714 --> 00:13:03,080
+sounds fancy, but it's just a simple if
 
 263
-00:13:16,775 --> 00:13:19,459
-I could launch it everywhere on Reddit. One
+00:13:03,320 --> 00:13:06,335
+mood then movie genre.
 
 264
-00:13:19,459 --> 00:13:22,182
-post went viral and got 10K visitors.
+00:13:07,035 --> 00:13:10,304
+This app got 20K+ visitors by going viral
 
 265
-00:13:22,662 --> 00:13:25,263
-So I had somewhat valuable content to share
+00:13:10,304 --> 00:13:13,630
+on Hacker News. This project kickstarted
 
 266
-00:13:25,263 --> 00:13:28,408
-on Twitter. In 6 months, I launched
+00:13:13,630 --> 00:13:16,453
+my build-in-public journey. The app is free, so
 
 267
-00:13:28,408 --> 00:13:31,247
-7 projects without thinking about business, just for
+00:13:16,453 --> 00:13:19,400
+I could launch it everywhere on Reddit. One
 
 268
-00:13:31,247 --> 00:13:34,404
-fun. I learned much about coding,
+00:13:19,400 --> 00:13:22,229
+post went viral and got 10K visitors.
 
 269
-00:13:34,404 --> 00:13:37,691
-SEO, writing, launching, and marketing. My
+00:13:22,709 --> 00:13:25,324
+So I had somewhat valuable content to share
 
 270
-00:13:37,691 --> 00:13:41,086
-Twitter account reached 1,000 followers in July
+00:13:25,324 --> 00:13:28,288
+on Twitter. In 6 months, I launched 7
 
 271
-00:13:41,086 --> 00:13:44,212
-2022. Meantime, I ate healthy food,
+00:13:28,288 --> 00:13:31,649
+projects without thinking about business, just for fun.
 
 272
-00:13:44,212 --> 00:13:47,607
-prioritized sleep, and worked out every day surfing
+00:13:32,129 --> 00:13:35,000
+I learned much about coding, SEO, writing,
 
 273
-00:13:47,607 --> 00:13:50,859
-or skating I also raised a
+00:13:35,000 --> 00:13:38,107
+launching, and marketing. My Twitter
 
 274
-00:13:50,859 --> 00:13:54,089
-chick. Here's a photo of me as a
+00:13:38,107 --> 00:13:41,238
+account reached 1,000 followers in July
 
 275
-00:13:54,089 --> 00:13:56,479
-software engineer in 2020, on the left, and
+00:13:41,238 --> 00:13:44,188
+2022. Meantime, I ate healthy food,
 
 276
-00:13:56,479 --> 00:13:58,870
-as a solopreneur in 2021, on the right.
+00:13:44,188 --> 00:13:46,724
+prioritized sleep, and worked out every day
 
 277
-00:13:59,570 --> 00:14:01,521
-Even though I was making just a few
+00:13:47,004 --> 00:13:49,894
+surfing or skating I also
 
 278
-00:14:01,521 --> 00:14:03,472
-hundred dollars a month, it was too much
+00:13:49,894 --> 00:13:53,176
+raised a chick. Here's a photo of
 
 279
-00:14:03,472 --> 00:14:06,653
-fun to give up. Chapter
+00:13:53,176 --> 00:13:55,602
+me as a software engineer in 2020, on
 
 280
-00:14:06,653 --> 00:14:08,781
-7. I fell in love.
+00:13:55,602 --> 00:13:58,108
+the left, and as a solopreneur in 2021,
 
 281
-00:14:09,681 --> 00:14:12,909
-In August 2022, my gamified habit tracker, Habits
+00:13:58,108 --> 00:14:01,001
+on the right. Even though I was making
 
 282
-00:14:12,909 --> 00:14:16,136
-Garden, was making about 200 dollars a month,
+00:14:01,001 --> 00:14:03,110
+just a few hundred dollars a month, it
 
 283
-00:14:16,436 --> 00:14:18,991
-so I went all-in.
+00:14:03,110 --> 00:14:04,494
+was too much fun to give up.
 
 284
-00:14:19,471 --> 00:14:22,864
-But I'm a product-obsessed developer. I
+00:14:06,273 --> 00:14:08,827
+Chapter 7. I fell in love.
 
 285
-00:14:22,864 --> 00:14:26,011
-don't like marketing. Side-project marketing saved
+00:14:09,727 --> 00:14:13,080
+In August 2022, my gamified habit tracker, Habits
 
 286
-00:14:26,011 --> 00:14:29,231
-me: Ship free tools to promote a paid
+00:14:13,080 --> 00:14:16,182
+Garden, was making about 200 dollars a month,
 
 287
-00:14:29,231 --> 00:14:32,335
-one. For instance, I launched VisualizeHabit—a
+00:14:16,482 --> 00:14:19,760
+so I went all-in. But
 
 288
-00:14:32,335 --> 00:14:35,505
-free tool to visualize the compound effect of
+00:14:19,760 --> 00:14:23,017
+I'm a product-obsessed developer. I don't
 
 289
-00:14:35,505 --> 00:14:38,713
-tiny habits. I plugged Habits Garden, and
+00:14:23,017 --> 00:14:25,766
+like marketing. Side-project
 
 290
-00:14:38,713 --> 00:14:41,422
-it brought 30,000 visitors in 2 months.
+00:14:25,766 --> 00:14:28,930
+marketing saved me: Ship free tools to promote
 
 291
-00:14:42,142 --> 00:14:45,361
-If you read 5 minutes/day for 1 year,
+00:14:28,930 --> 00:14:31,885
+a paid one. For instance, I launched
 
 292
-00:14:45,361 --> 00:14:48,671
-you'll finish 6 books! For a side project
+00:14:31,885 --> 00:14:35,070
+VisualizeHabit—a free tool to visualize the compound
 
 293
-00:14:48,671 --> 00:14:50,672
-to work, I had to be good at
+00:14:35,070 --> 00:14:38,068
+effect of tiny habits. I plugged Habits
 
 294
-00:14:50,672 --> 00:14:53,817
-launching. I started to make fun launch videos.
+00:14:38,068 --> 00:14:40,970
+Garden, and it brought 30,000 visitors in 2
 
 295
-00:14:54,297 --> 00:14:57,352
-People enjoyed and shared them, creating a viral
+00:14:40,970 --> 00:14:44,301
+months. If you read 5 minutes/day
 
 296
-00:14:57,352 --> 00:15:00,544
-loop. Each side project grew my Twitter
+00:14:44,301 --> 00:14:47,017
+for 1 year, you'll finish 6 books!
 
 297
-00:15:00,544 --> 00:15:03,683
-following and brought decent traffic. Here's
+00:14:47,717 --> 00:14:49,625
+For a side project to work, I had
 
 298
-00:15:03,683 --> 00:15:06,216
-a photo from my skit for the launch
+00:14:49,625 --> 00:14:52,334
+to be good at launching. I started to
 
 299
-00:15:06,216 --> 00:15:09,332
-of ByeDispute. Thanks to side-project marketing
+00:14:52,334 --> 00:14:55,565
+make fun launch videos. People enjoyed and
 
 300
-00:15:09,332 --> 00:15:12,454
-and launch videos, Habits Garden reached 10,000
+00:14:55,565 --> 00:14:58,830
+shared them, creating a viral loop. Each side
 
 301
-00:15:12,454 --> 00:15:15,458
-users in January 2023. Users
+00:14:58,830 --> 00:15:02,034
+project grew my Twitter following and brought decent
 
 302
-00:15:15,458 --> 00:15:18,742
-requested a mobile app. I had no
+00:15:02,034 --> 00:15:05,305
+traffic. Here's a photo from my skit for
 
 303
-00:15:18,742 --> 00:15:20,870
-idea how to code it, but I tried.
+00:15:05,305 --> 00:15:08,224
+the launch of ByeDispute. Thanks to
 
 304
-00:15:21,350 --> 00:15:23,511
-After 14 days with the help of my
+00:15:08,224 --> 00:15:11,450
+side-project marketing and launch videos, Habits
 
 305
-00:15:23,511 --> 00:15:25,673
-friend Martin, Habits Garden was live on the
+00:15:11,450 --> 00:15:14,283
+Garden reached 10,000 users in January 2023.
 
 306
-00:15:25,673 --> 00:15:28,770
-App Store and the Play Store. It was
+00:15:15,003 --> 00:15:18,173
+Users requested a mobile app. I
 
 307
-00:15:28,770 --> 00:15:32,158
-making 700 dollars a month. Not bad, but
+00:15:18,173 --> 00:15:20,276
+had no idea how to code it, but
 
 308
-00:15:32,158 --> 00:15:35,313
-not worth 6 months of my life. I
+00:15:20,276 --> 00:15:22,934
+I tried. After 14 days with the help
 
 309
-00:15:35,313 --> 00:15:37,426
-fell in love with the wrong product.
+00:15:22,934 --> 00:15:25,382
+of my friend Martin, Habits Garden was live
 
 310
-00:15:39,206 --> 00:15:41,621
-Chapter 8. Back on the grind.
+00:15:25,382 --> 00:15:27,340
+on the App Store and the Play Store.
 
 311
-00:15:42,521 --> 00:15:45,772
-Early 2023, I sold a micro-startup I
+00:15:28,060 --> 00:15:30,707
+It was making 700 dollars a month.
 
 312
-00:15:45,772 --> 00:15:49,124
-built in 2021. It was making
+00:15:31,187 --> 00:15:33,961
+Not bad, but not worth 6 months of
 
 313
-00:15:49,124 --> 00:15:52,082
-80 dollars a month and was
+00:15:33,961 --> 00:15:36,537
+my life. I fell in love with the
 
 314
-00:15:52,082 --> 00:15:55,370
-acquired for 4,300 dollars. I had stories
+00:15:36,537 --> 00:15:37,472
+wrong product.
 
 315
-00:15:55,370 --> 00:15:58,274
-to tell. My Twitter account grew by about
+00:15:39,253 --> 00:15:41,668
+Chapter 8. Back on the grind.
 
 316
-00:15:58,274 --> 00:16:01,384
-50 followers a day. But I was still
+00:15:42,568 --> 00:15:45,775
+Early 2023, I sold a micro-startup
 
 317
-00:16:01,384 --> 00:16:03,675
-not making enough to cover my cheap lifestyle.
+00:15:45,775 --> 00:15:48,974
+I built in 2021. It was making
 
 318
-00:16:04,395 --> 00:16:07,402
-So I did the 2021 strategy again:
+00:15:48,974 --> 00:15:51,537
+80 dollars a month and was
 
 319
-00:16:07,402 --> 00:16:10,587
-Ship startups like a madman. But this
+00:15:51,537 --> 00:15:54,736
+acquired for 4,300 dollars. I
 
 320
-00:16:10,587 --> 00:16:13,969
-time, I applied some rules: No free
+00:15:54,736 --> 00:15:57,901
+had stories to tell. My Twitter account grew
 
 321
-00:16:13,969 --> 00:16:16,942
-plan. Only painkiller product.
+00:15:57,901 --> 00:16:00,622
+by about 50 followers a day. But I
 
 322
-00:16:17,422 --> 00:16:20,801
-Move on if no product-market fit. I
+00:16:00,622 --> 00:16:02,779
+was still not making enough to cover my
 
 323
-00:16:20,801 --> 00:16:23,986
-built 8 startups in 8 months. 6
+00:16:02,779 --> 00:16:05,857
+cheap lifestyle. So I did the 2021
 
 324
-00:16:23,986 --> 00:16:27,128
-made money. 2 paid the bills.
+00:16:05,857 --> 00:16:08,991
+strategy again: Ship startups like a
 
 325
-00:16:27,608 --> 00:16:30,487
-Ship fast, launch viral, repeat.
+00:16:08,991 --> 00:16:12,027
+madman. But this time, I applied some rules:
 
 326
-00:16:30,967 --> 00:16:34,040
-In July 2023, I was making about 3,000
+00:16:12,747 --> 00:16:15,485
+No free plan. Only
 
 327
-00:16:34,040 --> 00:16:37,167
-dollars a month. 60 percent of
+00:16:15,485 --> 00:16:18,451
+painkiller product. Move on if no
 
 328
-00:16:37,167 --> 00:16:40,511
-my revenue came from MakeLanding, an AI landing
+00:16:18,451 --> 00:16:21,308
+product-market fit. I built 8
 
 329
-00:16:40,511 --> 00:16:43,618
-page generator. I tried to grow it but
+00:16:21,308 --> 00:16:24,437
+startups in 8 months. 6 made
 
 330
-00:16:43,618 --> 00:16:46,401
-failed. I didn't use the product, and I
+00:16:24,437 --> 00:16:27,175
+money. 2 paid the bills.
 
 331
-00:16:46,401 --> 00:16:49,195
-didn't care about the market. I just built
+00:16:27,655 --> 00:16:30,534
+Ship fast, launch viral, repeat.
 
 332
-00:16:49,195 --> 00:16:52,423
-the startup out of AI FOMO. In August
+00:16:31,014 --> 00:16:33,895
+In July 2023, I was making about 3,000
 
 333
-00:16:52,423 --> 00:16:55,396
-2023, my whole family flew to South Korea,
+00:16:33,895 --> 00:16:37,081
+dollars a month. 60 percent of my
 
 334
-00:16:55,396 --> 00:16:58,492
-where my wife and I remarried. It
+00:16:37,081 --> 00:16:40,273
+revenue came from MakeLanding, an AI landing
 
 335
-00:16:58,492 --> 00:17:01,775
-was wonderful. Here's a photo of my wife
+00:16:40,273 --> 00:16:43,442
+page generator. I tried to grow it but
 
 336
-00:17:01,775 --> 00:17:03,675
-and me in traditional Korean wedding clothes.
+00:16:43,442 --> 00:16:46,234
+failed. I didn't use the product, and I
 
 337
-00:17:05,275 --> 00:17:08,479
-Chapter 9. Product-market fit, finally.
+00:16:46,234 --> 00:16:49,270
+didn't care about the market. I just built
 
 338
-00:17:09,379 --> 00:17:12,460
-Holidays are magic. When I
+00:16:49,270 --> 00:16:52,448
+the startup out of AI FOMO. In August
 
 339
-00:17:12,460 --> 00:17:15,247
-left for Korea in August 2023, my head
+00:16:52,448 --> 00:16:55,420
+2023, my whole family flew to South Korea,
 
 340
-00:17:15,247 --> 00:17:18,475
-was full of questions. When I came back,
+00:16:55,420 --> 00:16:58,567
+where my wife and I remarried. It was
 
 341
-00:17:18,475 --> 00:17:21,184
-it was obvious: I must build a business
+00:16:58,567 --> 00:17:01,592
+wonderful. Here's a photo of my wife and
 
 342
-00:17:21,184 --> 00:17:24,313
-for customers I care about. So I quit
+00:17:01,592 --> 00:17:03,722
+me in traditional Korean wedding clothes.
 
 343
-00:17:24,313 --> 00:17:26,861
-all my faceless AI projects and focused on
+00:17:05,322 --> 00:17:08,526
+Chapter 9. Product-market fit, finally.
 
 344
-00:17:26,861 --> 00:17:30,164
-products I'd use. I sold my AI
+00:17:09,426 --> 00:17:12,713
+Holidays are magic. When I left
 
 345
-00:17:30,164 --> 00:17:33,421
-landing page generator for 35,000 dollars and my
+00:17:12,713 --> 00:17:15,332
+for Korea in August 2023, my head was
 
 346
-00:17:33,421 --> 00:17:36,741
-habit tracker for 10,000 dollars. It gave
+00:17:15,332 --> 00:17:18,483
+full of questions. When I came back, it
 
 347
-00:17:36,741 --> 00:17:39,841
-me time and clarity. I wrote about
+00:17:18,483 --> 00:17:21,280
+was obvious: I must build a business for
 
 348
-00:17:39,841 --> 00:17:43,151
-the process and the outcome. On September
+00:17:21,280 --> 00:17:24,281
+customers I care about. So I quit all
 
 349
-00:17:43,151 --> 00:17:46,327
-1st, I launched ShipFast, a NextJS boilerplate
+00:17:24,281 --> 00:17:27,465
+my faceless AI projects and focused on products
 
 350
-00:17:46,327 --> 00:17:49,471
-to ship startups fast. I packed 2
+00:17:27,465 --> 00:17:30,470
+I'd use. I sold my AI landing page
 
 351
-00:17:49,471 --> 00:17:51,734
-years of shipping knowledge in a GitHub repo.
+00:17:30,470 --> 00:17:33,526
+generator for 35,000 dollars and my habit
 
 352
-00:17:52,454 --> 00:17:55,510
-ShipFast diagram showing the technologies and features
+00:17:33,526 --> 00:17:36,861
+tracker for 10,000 dollars. It gave me
 
 353
-00:17:55,510 --> 00:17:58,779
-in the boilerplate. I told my wife we'd
+00:17:36,861 --> 00:17:40,032
+time and clarity. I wrote about the
 
 354
-00:17:58,779 --> 00:18:00,796
-be lucky if we made 100 dollars with
+00:17:40,032 --> 00:17:43,231
+process and the outcome. On September
 
 355
-00:18:00,796 --> 00:18:03,934
-it. By the end of the month, ShipFast
+00:17:43,231 --> 00:17:45,710
+1st, I launched ShipFast, a NextJS
 
 356
-00:18:03,934 --> 00:18:06,873
-made 40,000 dollars. I was blown
+00:17:45,710 --> 00:17:48,799
+boilerplate to ship startups fast. I
 
 357
-00:18:06,873 --> 00:18:10,035
-away. It's hard to describe product-market fit,
+00:17:48,799 --> 00:17:51,133
+packed 2 years of shipping knowledge in a
 
 358
-00:18:10,035 --> 00:18:12,241
-but when it hits, it's clear.
+00:17:51,133 --> 00:17:54,206
+GitHub repo. ShipFast diagram showing the
 
 359
-00:18:13,121 --> 00:18:15,768
-I kept adding features while tweeting about it.
+00:17:54,206 --> 00:17:56,866
+technologies and features in the boilerplate.
 
 360
-00:18:16,248 --> 00:18:18,890
-I received tons of testimonials from customers who
+00:17:57,566 --> 00:17:59,407
+I told my wife we'd be lucky if
 
 361
-00:18:18,890 --> 00:18:21,532
-made their first 1 dollar online thanks to
+00:17:59,407 --> 00:18:01,984
+we made 100 dollars with it. By the
 
 362
-00:18:21,532 --> 00:18:23,833
-the boilerplate. I was happy.
+00:18:01,984 --> 00:18:05,012
+end of the month, ShipFast made 40,000 dollars.
 
 363
-00:18:24,553 --> 00:18:27,795
-I also launched ByeDispute: A no-code tool to
+00:18:05,492 --> 00:18:08,611
+I was blown away. It's hard to
 
 364
-00:18:27,795 --> 00:18:31,108
-prevent Stripe chargebacks. In November, my
+00:18:08,611 --> 00:18:11,879
+describe product-market fit, but when it hits, it's
 
 365
-00:18:31,108 --> 00:18:34,320
-revenue hit 65,400 dollars a month at
+00:18:11,879 --> 00:18:14,822
+clear. I kept adding features while
 
 366
-00:18:34,320 --> 00:18:37,533
-a 91 percent margin and 0 employees.
+00:18:14,822 --> 00:18:18,066
+tweeting about it. I received tons of testimonials
 
 367
-00:18:38,013 --> 00:18:41,410
-By the end of 2023, ShipFast alone made
+00:18:18,066 --> 00:18:20,468
+from customers who made their first 1 dollar
 
 368
-00:18:41,410 --> 00:18:43,958
-almost 200,000 dollars in total revenue.
+00:18:20,468 --> 00:18:23,299
+online thanks to the boilerplate. I was
 
 369
-00:18:44,678 --> 00:18:47,105
-It felt so good to be financially rewarded
+00:18:23,299 --> 00:18:26,469
+happy. I also launched ByeDispute: A
 
 370
-00:18:47,105 --> 00:18:50,483
-for my last 7 years of work. Here's
+00:18:26,469 --> 00:18:29,058
+no-code tool to prevent Stripe chargebacks.
 
 371
-00:18:50,483 --> 00:18:53,687
-an old Stripe screenshot, taken on
+00:18:29,778 --> 00:18:32,625
+In November, my revenue hit 65,400
 
 372
-00:18:53,687 --> 00:18:55,289
-December 17th, 2023.
+00:18:32,625 --> 00:18:35,471
+dollars a month at a 91 percent
 
 373
-00:18:56,890 --> 00:18:59,305
-Chapter 10. Rat race.
+00:18:35,471 --> 00:18:38,803
+margin and 0 employees. By the end
 
 374
-00:19:00,205 --> 00:19:02,852
-I started a YouTube channel in 2024.
+00:18:38,803 --> 00:18:42,054
+of 2023, ShipFast alone made almost 200,000
 
 375
-00:19:03,572 --> 00:19:05,894
-Thumbnails from Marc's YouTube channel.
+00:18:42,054 --> 00:18:45,364
+dollars in total revenue. It felt so
 
 376
-00:19:06,594 --> 00:19:09,766
-The videos made ShipFast hit 133,000
+00:18:45,364 --> 00:18:48,238
+good to be financially rewarded for my last
 
 377
-00:19:09,766 --> 00:19:12,938
-dollars in monthly revenue in April
+00:18:48,238 --> 00:18:51,086
+7 years of work. Here's an old
 
 378
-00:19:12,938 --> 00:19:16,137
-2024. The YouTube channel quickly grew to 100K
+00:18:51,086 --> 00:18:54,464
+Stripe screenshot, taken on December
 
 379
-00:19:16,137 --> 00:19:18,640
-followers because I had a story and numbers
+00:18:54,464 --> 00:18:55,336
+17th, 2023.
 
 380
-00:19:18,640 --> 00:19:22,039
-to back it up. This made me
+00:18:56,936 --> 00:18:59,351
+Chapter 10. Rat race.
 
 381
-00:19:22,039 --> 00:19:25,147
-overconfident. I started to believe I was
+00:19:00,251 --> 00:19:02,898
+I started a YouTube channel in 2024.
 
 382
-00:19:25,147 --> 00:19:28,016
-Alex Hormozi for developers, so I doubled down
+00:19:03,618 --> 00:19:06,962
+Thumbnails from Marc's YouTube channel. The
 
 383
-00:19:28,016 --> 00:19:31,202
-on content and info-products. People kept asking
+00:19:06,962 --> 00:19:09,862
+videos made ShipFast hit 133,000
 
 384
-00:19:31,202 --> 00:19:33,951
-how I learned to code under my videos,
+00:19:09,862 --> 00:19:13,083
+dollars in monthly revenue in April
 
 385
-00:19:33,951 --> 00:19:37,105
-so I built CodeFast. It took 9 months
+00:19:13,083 --> 00:19:16,458
+2024. The YouTube channel quickly grew to 100K
 
 386
-00:19:37,105 --> 00:19:40,345
-working 6 hours a day. It made 100,000
+00:19:16,458 --> 00:19:19,212
+followers because I had a story and numbers
 
 387
-00:19:40,345 --> 00:19:43,473
-dollars in 2 days. CodeFast's launch
+00:19:19,212 --> 00:19:22,561
+to back it up. This made me overconfident.
 
 388
-00:19:43,473 --> 00:19:46,411
-video was my favorite part of building this
+00:19:23,041 --> 00:19:25,593
+I started to believe I was Alex Hormozi
 
 389
-00:19:46,411 --> 00:19:49,615
-product. My mood was negatively affected by
+00:19:25,593 --> 00:19:28,371
+for developers, so I doubled down on content
 
 390
-00:19:49,615 --> 00:19:52,981
-the ups and downs in revenue. One month
+00:19:28,371 --> 00:19:31,747
+and info-products. People kept asking how
 
 391
-00:19:52,981 --> 00:19:55,982
-I could make 120 thousand dollars, the next
+00:19:31,747 --> 00:19:34,163
+I learned to code under my videos, so
 
 392
-00:19:55,982 --> 00:19:59,305
-40 thousand dollars. I told myself it's stupid
+00:19:34,163 --> 00:19:37,092
+I built CodeFast. It took 9 months
 
 393
-00:19:59,305 --> 00:20:02,054
-to stress because I'm still making very good
+00:19:37,092 --> 00:19:40,433
+working 6 hours a day. It made 100,000
 
 394
-00:20:02,054 --> 00:20:05,438
-money, but it's hard to ignore degrowth. I
+00:19:40,433 --> 00:19:43,829
+dollars in 2 days. CodeFast's launch
 
 395
-00:20:05,438 --> 00:20:07,506
-wish I could tell you I was happy
+00:19:43,829 --> 00:19:46,336
+video was my favorite part of building this
 
 396
-00:20:07,506 --> 00:20:09,573
-making 1.2 million dollars by the end of
+00:19:46,336 --> 00:19:49,085
+product. My mood was negatively
 
 397
-00:20:09,573 --> 00:20:11,640
-2024, but realistically, it felt like a rat
+00:19:49,085 --> 00:19:51,797
+affected by the ups and downs in revenue.
 
 398
-00:20:11,640 --> 00:20:13,708
-race where I had to work harder and
+00:19:52,277 --> 00:19:55,235
+One month I could make 120 thousand dollars,
 
 399
-00:20:13,708 --> 00:20:15,258
-harder to keep the numbers up.
+00:19:55,235 --> 00:19:58,570
+the next 40 thousand dollars. I told myself
 
 400
-00:20:17,037 --> 00:20:19,359
-Chapter 11. First love.
+00:19:58,570 --> 00:20:01,460
+it's stupid to stress because I'm still making
 
 401
-00:20:20,259 --> 00:20:23,370
-I launched DataFast in October 2024.
+00:20:01,460 --> 00:20:03,881
+very good money, but it's hard to ignore
 
 402
-00:20:24,090 --> 00:20:26,777
-I connected Stripe with web analytics to find
+00:20:03,881 --> 00:20:06,704
+degrowth. I wish I could tell you I
 
 403
-00:20:26,777 --> 00:20:30,015
-out my best marketing channels. It reached
+00:20:06,704 --> 00:20:09,056
+was happy making 1.2 million dollars by the
 
 404
-00:20:30,015 --> 00:20:32,592
-300 dollars MRR in 2 weeks.
+00:20:09,056 --> 00:20:11,407
+end of 2024, but realistically, it felt like
 
 405
-00:20:33,312 --> 00:20:36,420
-The revenue was ridiculous compared to CodeFast, but
+00:20:11,407 --> 00:20:13,087
+a rat race where I had to work
 
 406
-00:20:36,420 --> 00:20:39,573
-it saved me. After spending 9 months
+00:20:13,087 --> 00:20:15,304
+harder and harder to keep the numbers up.
 
 407
-00:20:39,573 --> 00:20:42,589
-making videos, I felt happiness finally building features
+00:20:17,084 --> 00:20:19,406
+Chapter 11. First love.
 
 408
-00:20:42,589 --> 00:20:45,887
-people could use and touch. I know it
+00:20:20,306 --> 00:20:23,417
+I launched DataFast in October 2024.
 
 409
-00:20:45,887 --> 00:20:49,137
-sounds weird, but that's my happy place. I
+00:20:24,137 --> 00:20:26,757
+I connected Stripe with web analytics to find
 
 410
-00:20:49,137 --> 00:20:51,953
-realized I had to go back to my
+00:20:26,757 --> 00:20:29,425
+out my best marketing channels. It
 
 411
-00:20:51,953 --> 00:20:54,768
-first love: building apps out of curiosity, not
+00:20:29,425 --> 00:20:32,639
+reached 300 dollars MRR in 2 weeks.
 
 412
-00:20:54,768 --> 00:20:57,891
-revenue opportunity. Chapter
+00:20:33,359 --> 00:20:36,665
+The revenue was ridiculous compared to CodeFast,
 
 413
-00:20:57,891 --> 00:21:01,018
-12. Builder mindset. When
+00:20:36,665 --> 00:20:39,559
+but it saved me. After spending 9 months
 
 414
-00:21:01,018 --> 00:21:03,502
-I started building in public, I had one
+00:20:39,559 --> 00:20:42,454
+making videos, I felt happiness finally building
 
 415
-00:21:03,502 --> 00:21:06,837
-goal in mind: 1 startup per month. I
+00:20:42,454 --> 00:20:45,480
+features people could use and touch. I know
 
 416
-00:21:06,837 --> 00:21:09,926
-drifted in 2024, but I was back
+00:20:45,480 --> 00:20:48,112
+it sounds weird, but that's my happy place.
 
 417
-00:21:09,926 --> 00:21:13,117
-in 2025. I built BioAge, SuperShrimp, and
+00:20:48,832 --> 00:20:50,846
+I realized I had to go back to
 
 418
-00:21:13,117 --> 00:21:16,042
-many other little projects that never really made
+00:20:50,846 --> 00:20:53,827
+my first love: building apps out of curiosity,
 
 419
-00:21:16,042 --> 00:21:18,968
-money, and my overall revenue went down, but
+00:20:53,827 --> 00:20:55,519
+not revenue opportunity.
 
 420
-00:21:18,968 --> 00:21:21,892
-it didn't matter. I was having fun again.
+00:20:57,299 --> 00:20:59,853
+Chapter 12. Builder mindset.
 
 421
-00:21:22,612 --> 00:21:25,667
-The SuperShrimp website with the headline Fix Your
+00:21:00,753 --> 00:21:03,393
+When I started building in public, I had
 
 422
-00:21:25,667 --> 00:21:28,866
-Posture. I also prioritized other aspects of
+00:21:03,393 --> 00:21:05,722
+one goal in mind: 1 startup per month.
 
 423
-00:21:28,866 --> 00:21:32,140
-life and worked less. My wife and
+00:21:06,442 --> 00:21:09,517
+I drifted in 2024, but I was
 
 424
-00:21:32,140 --> 00:21:35,187
-I travelled the world: New Zealand, South Korea,
+00:21:09,517 --> 00:21:12,309
+back in 2025. I built BioAge,
 
 425
-00:21:35,187 --> 00:21:38,285
-Bali, South Africa, Greece. And I started
+00:21:12,309 --> 00:21:15,385
+SuperShrimp, and many other little projects that
 
 426
-00:21:38,285 --> 00:21:39,744
-running and lifting weights.
+00:21:15,385 --> 00:21:18,311
+never really made money, and my overall revenue
 
 427
-00:21:41,524 --> 00:21:44,450
-Chapter 13. 10 percent rule.
+00:21:18,311 --> 00:21:20,945
+went down, but it didn't matter. I was
 
 428
-00:21:45,350 --> 00:21:48,700
-I launched TrustMRR on October
+00:21:20,945 --> 00:21:24,102
+having fun again. The SuperShrimp website
 
 429
-00:21:48,700 --> 00:21:51,864
-30th, 2025. 24 hours later,
+00:21:24,102 --> 00:21:27,236
+with the headline Fix Your Posture. I also
 
 430
-00:21:51,864 --> 00:21:54,807
-it was making 20,000 dollars a month in
+00:21:27,236 --> 00:21:30,324
+prioritized other aspects of life and worked less.
 
 431
-00:21:54,807 --> 00:21:57,914
-ad placements. I vibe-coded the platform in
+00:21:31,044 --> 00:21:33,610
+My wife and I travelled the world: New
 
 432
-00:21:57,914 --> 00:22:01,003
-6 hours. The TrustMRR startup
+00:21:33,610 --> 00:21:36,756
+Zealand, South Korea, Bali, South Africa, Greece.
 
 433
-00:22:01,003 --> 00:22:04,157
-leaderboard and advertising placements. The
+00:21:37,236 --> 00:21:39,790
+And I started running and lifting weights.
 
 434
-00:22:04,157 --> 00:22:06,595
-hype died the next month, so I started
+00:21:41,570 --> 00:21:44,496
+Chapter 13. 10 percent rule.
 
 435
-00:22:06,595 --> 00:22:09,647
-building verticals to keep the project afloat. After
+00:21:45,396 --> 00:21:48,076
+I launched TrustMRR on
 
 436
-00:22:09,647 --> 00:22:12,721
-10 failures, the startup marketplace took off
+00:21:48,076 --> 00:21:51,404
+October 30th, 2025. 24 hours
 
 437
-00:22:12,721 --> 00:22:15,835
-in January 2026. Someone made an
+00:21:51,404 --> 00:21:54,393
+later, it was making 20,000 dollars a month
 
 438
-00:22:15,835 --> 00:22:18,909
-offer to acquire TrustMRR for 1 million
+00:21:54,393 --> 00:21:57,265
+in ad placements. I vibe-coded the
 
 439
-00:22:18,909 --> 00:22:21,453
-dollars. I rejected the offer.
+00:21:57,265 --> 00:22:00,218
+platform in 6 hours. The TrustMRR
 
 440
-00:22:22,173 --> 00:22:24,925
-7 months later: 164
+00:22:00,218 --> 00:22:03,198
+startup leaderboard and advertising placements.
 
 441
-00:22:24,925 --> 00:22:28,243
-founders got acquired. 200K people
+00:22:03,898 --> 00:22:05,701
+The hype died the next month, so I
 
 442
-00:22:28,243 --> 00:22:31,222
-visit the site every month. and
+00:22:05,701 --> 00:22:08,774
+started building verticals to keep the project afloat.
 
 443
-00:22:31,222 --> 00:22:33,931
-I've made almost 400,000 dollars.
+00:22:09,254 --> 00:22:12,359
+After 10 failures, the startup marketplace
 
 444
-00:22:34,411 --> 00:22:37,058
-I've documented TrustMRR's journey here.
+00:22:12,359 --> 00:22:15,727
+took off in January 2026. Someone made an
 
 445
-00:22:37,778 --> 00:22:40,768
-Meanwhile, I added features to DataFast, and
+00:22:15,727 --> 00:22:18,768
+offer to acquire TrustMRR for 1 million
 
 446
-00:22:40,768 --> 00:22:44,101
-it kept growing. As I'm writing
+00:22:18,768 --> 00:22:21,499
+dollars. I rejected the offer.
 
 447
-00:22:44,101 --> 00:22:47,244
-this in September 2026, it's now
+00:22:22,219 --> 00:22:24,660
+7 months later: 164
 
 448
-00:22:47,244 --> 00:22:50,387
-at 30,831 dollars MRR and about
+00:22:24,660 --> 00:22:27,848
+founders got acquired. 200K
 
 449
-00:22:50,387 --> 00:22:53,645
-7 percent churn. Here's a
+00:22:27,848 --> 00:22:31,062
+people visit the site every month. and
 
 450
-00:22:53,645 --> 00:22:56,872
-photo of the DataFast chart, at about thirty
+00:22:31,062 --> 00:22:33,977
+I've made almost 400,000 dollars.
 
 451
-00:22:56,872 --> 00:22:59,293
-thousand eight hundred thirty-one dollars MRR.
+00:22:34,457 --> 00:22:37,104
+I've documented TrustMRR's journey here.
 
 452
-00:22:59,993 --> 00:23:03,168
-I launched Stalkr in August 2026 and got
+00:22:37,824 --> 00:22:41,156
+Meanwhile, I added features to DataFast, and it
 
 453
-00:23:03,168 --> 00:23:06,262
-my first customers. It's doing 223
+00:22:41,156 --> 00:22:44,462
+kept growing. As I'm writing this
 
 454
-00:23:06,262 --> 00:23:09,420
-dollars MRR, which is very tiny compared to
+00:22:44,462 --> 00:22:47,353
+in September 2026, it's now at
 
 455
-00:23:09,420 --> 00:23:12,183
-my other products, but it doesn't matter!
+00:22:47,353 --> 00:22:50,496
+30,831 dollars MRR and about 7
 
 456
-00:23:12,663 --> 00:23:15,553
-I build tools for myself, and I'm having
+00:22:50,496 --> 00:22:53,829
+percent churn. Here's a photo
 
 457
-00:23:15,553 --> 00:23:18,884
-fun. Stalkr is how I find testimonials,
+00:22:53,829 --> 00:22:56,899
+of the DataFast chart, at about thirty thousand
 
 458
-00:23:18,884 --> 00:23:21,670
-feature ideas, and bug reports for my products.
+00:22:56,899 --> 00:23:00,214
+eight hundred thirty-one dollars MRR. I
 
 459
-00:23:22,370 --> 00:23:24,485
-I see a recurring pattern: I have no
+00:23:00,214 --> 00:23:03,182
+launched Stalkr in August 2026 and got my
 
 460
-00:23:24,485 --> 00:23:27,564
-idea what's going to work. ShipFast and
+00:23:03,182 --> 00:23:06,126
+first customers. It's doing 223
 
 461
-00:23:27,564 --> 00:23:30,647
-TrustMRR blew up overnight. DataFast
+00:23:06,126 --> 00:23:09,314
+dollars MRR, which is very tiny compared to
 
 462
-00:23:30,647 --> 00:23:33,965
-was slow and steady. My other
+00:23:09,314 --> 00:23:12,229
+my other products, but it doesn't matter!
 
 463
-00:23:33,965 --> 00:23:37,289
-30 startups never really made money. 90
+00:23:12,709 --> 00:23:15,681
+I build tools for myself, and I'm having
 
 464
-00:23:37,289 --> 00:23:39,956
-percent of my 36 startups failed.
+00:23:15,681 --> 00:23:18,951
+fun. Stalkr is how I find testimonials,
 
 465
-00:23:40,436 --> 00:23:43,748
-And that's okay. My goal is to build
+00:23:18,951 --> 00:23:21,716
+feature ideas, and bug reports for my products.
 
 466
-00:23:43,748 --> 00:23:46,187
-stuff that makes me happy, even if it
+00:23:22,416 --> 00:23:24,505
+I see a recurring pattern: I have no
 
 467
-00:23:46,187 --> 00:23:49,507
-doesn't make money. Chapter
+00:23:24,505 --> 00:23:27,579
+idea what's going to work. ShipFast and
 
 468
-00:23:49,507 --> 00:23:52,644
-14. Starting over. Back
+00:23:27,579 --> 00:23:29,684
+TrustMRR blew up overnight.
 
 469
-00:23:52,644 --> 00:23:55,492
-in 2016, when I started, I believed I
+00:23:30,164 --> 00:23:33,447
+DataFast was slow and steady. My
 
 470
-00:23:55,492 --> 00:23:58,878
-would make it. If I had known it
+00:23:33,447 --> 00:23:36,171
+other 30 startups never really made money.
 
 471
-00:23:58,878 --> 00:24:01,435
-would take 7 years of failure, I probably
+00:23:36,891 --> 00:23:40,002
+90 percent of my 36 startups failed.
 
 472
-00:24:01,435 --> 00:24:04,456
-would never have started. That's why
+00:23:40,482 --> 00:23:43,129
+And that's ohhh kay.
 
 473
-00:24:04,456 --> 00:24:07,822
-I'm stupidly optimistic. I don't think in
+00:23:43,849 --> 00:23:46,246
+My goal is to build stuff that makes
 
 474
-00:24:07,822 --> 00:24:10,485
-years. I don't dream big.
+00:23:46,246 --> 00:23:48,725
+me happy, even if it doesn't make money.
 
 475
-00:24:11,205 --> 00:24:14,277
-I think in weeks. I build
+00:23:50,506 --> 00:23:53,014
+Chapter 14. Starting over.
 
 476
-00:24:14,277 --> 00:24:17,543
-tiny projects fast. And I quit
+00:23:53,914 --> 00:23:56,979
+Back in 2016, when I started, I believed
 
 477
-00:24:17,543 --> 00:24:20,830
-even faster. That's how I wake up
+00:23:56,979 --> 00:23:59,838
+I would make it. If I had known
 
 478
-00:24:20,830 --> 00:24:23,510
-happy, enjoy the journey, and eventually build life-changing
+00:23:59,838 --> 00:24:02,089
+it would take 7 years of failure, I
 
 479
-00:24:23,510 --> 00:24:26,678
-projects. If you've been following the journey, thank
+00:24:02,089 --> 00:24:04,340
+probably would never have started.
 
 480
-00:24:26,678 --> 00:24:29,256
-you. You've given my posts a sense of
+00:24:05,060 --> 00:24:07,614
+That's why I'm stupidly optimistic.
 
 481
-00:24:29,256 --> 00:24:31,309
-purpose, which has kept me going, and I'm
+00:24:08,334 --> 00:24:11,703
+I don't think in years. I don't dream
 
 482
-00:24:31,309 --> 00:24:34,436
-very grateful for this. I root for you
+00:24:11,703 --> 00:24:14,457
+big. I think in weeks.
 
 483
-00:24:34,436 --> 00:24:36,415
-and your projects. ❤️
+00:24:14,937 --> 00:24:18,183
+I build tiny projects fast. And
 
 484
-00:24:37,135 --> 00:24:40,483
-PS. Here's my little portfolio of everything
+00:24:18,183 --> 00:24:21,415
+I quit even faster. That's how I
 
 485
-00:24:40,483 --> 00:24:41,191
-I built
+00:24:21,415 --> 00:24:23,887
+wake up happy, enjoy the journey, and eventually
+
+486
+00:24:23,887 --> 00:24:26,890
+build life-changing projects. If you've been
+
+487
+00:24:26,890 --> 00:24:29,856
+following the journey, thank you. You've given my
+
+488
+00:24:29,856 --> 00:24:31,973
+posts a sense of purpose, which has kept
+
+489
+00:24:31,973 --> 00:24:33,962
+me going, and I'm very grateful for this.
+
+490
+00:24:34,682 --> 00:24:38,041
+I root for you and your projects. ❤️
+
+491
+00:24:38,761 --> 00:24:41,642
+PS. Here's my little portfolio of
+
+492
+00:24:41,642 --> 00:24:42,817
+everything I built
 

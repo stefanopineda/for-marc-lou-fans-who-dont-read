@@ -5,7 +5,7 @@
   "full_mp3": "full/full-book.mp3",
   "full_m4b": "full/full-book.m4b",
   "video": "video/marc-lou-36-startups.mp4",
-  "duration_s": 1481.912,
+  "duration_s": 1483.537,
   "chapters": [
     {
       "number": 0,
@@ -33,7 +33,7 @@
       "title": "She said “Yes”",
       "mp3": "chapters/02-she-said-yes.mp3",
       "wav": "audio/chapters/02-02-she-said-yes.wav",
-      "duration_s": 138.354,
+      "duration_s": 138.401,
       "beats": 37,
       "start_s": 252.763
     },
@@ -45,7 +45,7 @@
       "wav": "audio/chapters/03-03-growing-a-saas.wav",
       "duration_s": 120.421,
       "beats": 31,
-      "start_s": 392.017
+      "start_s": 392.064
     },
     {
       "number": 4,
@@ -55,7 +55,7 @@
       "wav": "audio/chapters/04-04-failing-life.wav",
       "duration_s": 144.112,
       "beats": 38,
-      "start_s": 513.338
+      "start_s": 513.385
     },
     {
       "number": 5,
@@ -65,7 +65,7 @@
       "wav": "audio/chapters/05-05-overcoming-depression.wav",
       "duration_s": 97.211,
       "beats": 27,
-      "start_s": 658.35
+      "start_s": 658.396
     },
     {
       "number": 6,
@@ -75,7 +75,7 @@
       "wav": "audio/chapters/06-06-just-for-fun.wav",
       "duration_s": 88.867,
       "beats": 23,
-      "start_s": 756.46
+      "start_s": 756.507
     },
     {
       "number": 7,
@@ -85,7 +85,7 @@
       "wav": "audio/chapters/07-07-i-fell-in-love.wav",
       "duration_s": 92.079,
       "beats": 21,
-      "start_s": 846.227
+      "start_s": 846.273
     },
     {
       "number": 8,
@@ -95,7 +95,7 @@
       "wav": "audio/chapters/08-08-back-on-the-grind.wav",
       "duration_s": 85.169,
       "beats": 23,
-      "start_s": 939.206
+      "start_s": 939.253
     },
     {
       "number": 9,
@@ -105,7 +105,7 @@
       "wav": "audio/chapters/09-09-product-market-fit-finally.wav",
       "duration_s": 110.714,
       "beats": 23,
-      "start_s": 1025.275
+      "start_s": 1025.322
     },
     {
       "number": 10,
@@ -115,7 +115,7 @@
       "wav": "audio/chapters/10-10-rat-race.wav",
       "duration_s": 79.248,
       "beats": 15,
-      "start_s": 1136.89
+      "start_s": 1136.936
     },
     {
       "number": 11,
@@ -125,7 +125,7 @@
       "wav": "audio/chapters/11-11-first-love.wav",
       "duration_s": 39.315,
       "beats": 8,
-      "start_s": 1217.037
+      "start_s": 1217.084
     },
     {
       "number": 12,
@@ -135,7 +135,7 @@
       "wav": "audio/chapters/12-12-builder-mindset.wav",
       "duration_s": 43.371,
       "beats": 9,
-      "start_s": 1257.253
+      "start_s": 1257.299
     },
     {
       "number": 13,
@@ -143,9 +143,9 @@
       "title": "10% rule",
       "mp3": "chapters/13-10-rule.mp3",
       "wav": "audio/chapters/13-13-10-rule.wav",
-      "duration_s": 126.457,
+      "duration_s": 128.035,
       "beats": 28,
-      "start_s": 1301.524
+      "start_s": 1301.57
     },
     {
       "number": 14,
@@ -155,7 +155,7 @@
       "wav": "audio/chapters/14-14-starting-over.wav",
       "duration_s": 53.031,
       "beats": 16,
-      "start_s": 1428.88
+      "start_s": 1430.506
     }
   ]
 }
