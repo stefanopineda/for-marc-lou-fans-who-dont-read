@@ -1,11 +1,11 @@
 {
   "title": "I've made $3M with my 36 startups",
   "author": "Marc Lou",
-  "engine": "echo-tts-v4",
+  "engine": "echo-tts-v4-pauses",
   "full_mp3": "full/full-book.mp3",
   "full_m4b": "full/full-book.m4b",
   "video": "video/marc-lou-36-startups.mp4",
-  "duration_s": 1108.886,
+  "duration_s": 1485.467,
   "chapters": [
     {
       "number": 0,
@@ -13,9 +13,8 @@
       "title": "I've made $3M with my 36 startups",
       "mp3": "chapters/00-opening.mp3",
       "wav": "audio/chapters/00-00-i-ve-made-3m-with-my-36-startups.wav",
-      "duration_s": 23.22,
-      "words": 60,
-      "spans": 1,
+      "duration_s": 36.604,
+      "beats": 10,
       "start_s": 0.0
     },
     {
@@ -24,10 +23,9 @@
       "title": "Mark Zuckerberg Aura",
       "mp3": "chapters/01-mark-zuckerberg-aura.mp3",
       "wav": "audio/chapters/01-01-mark-zuckerberg-aura.wav",
-      "duration_s": 169.477,
-      "words": 521,
-      "spans": 7,
-      "start_s": 23.87
+      "duration_s": 215.243,
+      "beats": 58,
+      "start_s": 37.504
     },
     {
       "number": 2,
@@ -35,10 +33,9 @@
       "title": "She said “Yes”",
       "mp3": "chapters/02-she-said-yes.mp3",
       "wav": "audio/chapters/02-02-she-said-yes.wav",
-      "duration_s": 100.737,
-      "words": 317,
-      "spans": 4,
-      "start_s": 193.996
+      "duration_s": 138.944,
+      "beats": 37,
+      "start_s": 253.646
     },
     {
       "number": 3,
@@ -46,10 +43,9 @@
       "title": "Growing a SaaS",
       "mp3": "chapters/03-growing-a-saas.mp3",
       "wav": "audio/chapters/03-03-growing-a-saas.wav",
-      "duration_s": 92.888,
-      "words": 282,
-      "spans": 4,
-      "start_s": 295.383
+      "duration_s": 120.421,
+      "beats": 31,
+      "start_s": 393.49
     },
     {
       "number": 4,
@@ -57,10 +53,9 @@
       "title": "Failing life",
       "mp3": "chapters/04-failing-life.mp3",
       "wav": "audio/chapters/04-04-failing-life.wav",
-      "duration_s": 110.118,
-      "words": 333,
-      "spans": 4,
-      "start_s": 388.922
+      "duration_s": 144.112,
+      "beats": 38,
+      "start_s": 514.811
     },
     {
       "number": 5,
@@ -68,10 +63,9 @@
       "title": "Overcoming depression",
       "mp3": "chapters/05-overcoming-depression.mp3",
       "wav": "audio/chapters/05-05-overcoming-depression.wav",
-      "duration_s": 75.703,
-      "words": 227,
-      "spans": 3,
-      "start_s": 499.689
+      "duration_s": 97.211,
+      "beats": 27,
+      "start_s": 659.823
     },
     {
       "number": 6,
@@ -79,10 +73,9 @@
       "title": "Just for fun",
       "mp3": "chapters/06-just-for-fun.mp3",
       "wav": "audio/chapters/06-06-just-for-fun.wav",
-      "duration_s": 65.904,
-      "words": 193,
-      "spans": 3,
-      "start_s": 576.042
+      "duration_s": 88.867,
+      "beats": 23,
+      "start_s": 757.934
     },
     {
       "number": 7,
@@ -90,10 +83,9 @@
       "title": "I fell in love",
       "mp3": "chapters/07-i-fell-in-love.mp3",
       "wav": "audio/chapters/07-07-i-fell-in-love.wav",
-      "duration_s": 68.226,
-      "words": 211,
-      "spans": 3,
-      "start_s": 642.596
+      "duration_s": 92.079,
+      "beats": 21,
+      "start_s": 847.7
     },
     {
       "number": 8,
@@ -101,10 +93,9 @@
       "title": "Back on the grind",
       "mp3": "chapters/08-back-on-the-grind.mp3",
       "wav": "audio/chapters/08-08-back-on-the-grind.wav",
-      "duration_s": 57.403,
-      "words": 177,
-      "spans": 2,
-      "start_s": 711.472
+      "duration_s": 85.169,
+      "beats": 23,
+      "start_s": 940.68
     },
     {
       "number": 9,
@@ -112,10 +103,9 @@
       "title": "Product-market fit, finally",
       "mp3": "chapters/09-product-market-fit-finally.mp3",
       "wav": "audio/chapters/09-09-product-market-fit-finally.wav",
-      "duration_s": 82.437,
-      "words": 242,
-      "spans": 3,
-      "start_s": 769.525
+      "duration_s": 110.714,
+      "beats": 23,
+      "start_s": 1026.749
     },
     {
       "number": 10,
@@ -123,10 +113,9 @@
       "title": "Rat race",
       "mp3": "chapters/10-rat-race.mp3",
       "wav": "audio/chapters/10-10-rat-race.wav",
-      "duration_s": 63.21,
-      "words": 191,
-      "spans": 3,
-      "start_s": 852.611
+      "duration_s": 79.248,
+      "beats": 15,
+      "start_s": 1138.363
     },
     {
       "number": 11,
@@ -134,10 +123,9 @@
       "title": "First love",
       "mp3": "chapters/11-first-love.mp3",
       "wav": "audio/chapters/11-11-first-love.wav",
-      "duration_s": 29.722,
-      "words": 88,
-      "spans": 1,
-      "start_s": 916.472
+      "duration_s": 39.315,
+      "beats": 8,
+      "start_s": 1218.511
     },
     {
       "number": 12,
@@ -145,10 +133,9 @@
       "title": "Builder mindset",
       "mp3": "chapters/12-builder-mindset.mp3",
       "wav": "audio/chapters/12-12-builder-mindset.wav",
-      "duration_s": 31.582,
-      "words": 91,
-      "spans": 2,
-      "start_s": 946.843
+      "duration_s": 43.371,
+      "beats": 9,
+      "start_s": 1258.726
     },
     {
       "number": 13,
@@ -156,10 +143,9 @@
       "title": "10% rule",
       "mp3": "chapters/13-10-rule.mp3",
       "wav": "audio/chapters/13-13-10-rule.wav",
-      "duration_s": 84.808,
-      "words": 237,
-      "spans": 4,
-      "start_s": 979.075
+      "duration_s": 128.539,
+      "beats": 28,
+      "start_s": 1302.997
     },
     {
       "number": 14,
@@ -167,10 +153,9 @@
       "title": "Starting over",
       "mp3": "chapters/14-starting-over.mp3",
       "wav": "audio/chapters/14-14-starting-over.wav",
-      "duration_s": 44.353,
-      "words": 119,
-      "spans": 2,
-      "start_s": 1064.533
+      "duration_s": 53.031,
+      "beats": 16,
+      "start_s": 1432.436
     }
   ]
 }
