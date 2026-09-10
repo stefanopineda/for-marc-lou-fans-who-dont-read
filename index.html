@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex,nofollow">
+  <title>I've made $3M with my 36 startups — a gift for Marc Lou</title>
+  <style>
+    :root { color-scheme: dark; --gold:#f5c846; --bg:#0c0c10; --card:#16161c; --muted:#9a9aa6; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: ui-sans-serif, system-ui, sans-serif; background: var(--bg); color: #eee; }
+    .app { max-width: 980px; margin: 0 auto; padding: 1.1rem 1.1rem 8.8rem; }
+    header { display: flex; gap: 1.1rem; align-items: flex-start; margin-bottom: 1rem; }
+    header img.cover { width: 108px; height: auto; border-radius: 6px; box-shadow: 0 12px 40px #0008; }
+    h1 { font-size: 1.32rem; margin: 0 0 .3rem; line-height: 1.25; }
+    .by { color: var(--muted); margin: 0 0 .7rem; }
+    .warn { background: #3a2208; border: 1px solid #a56; padding: .6rem .85rem; border-radius: 8px; font-size: .9rem; }
+    .stage { background: #000; border-radius: 12px; overflow: hidden; margin: 0 0 1rem; }
+    video { width: 100%; height: auto; display: block; background: #000; vertical-align: top; }
+    .chapters { display: grid; gap: .35rem; }
+    .ch { display: grid; grid-template-columns: 2.4rem 1fr auto; gap: .75rem; align-items: center; padding: .7rem .85rem; background: var(--card); border-radius: 10px; cursor: pointer; border: 1px solid transparent; }
+    .ch:hover { border-color: #333; }
+    .ch.active { border-color: var(--gold); background: #1c1a12; }
+    .ch .n { color: var(--gold); font-variant-numeric: tabular-nums; }
+    .ch .dur { color: var(--muted); font-variant-numeric: tabular-nums; font-size: .9rem; }
+    .dock { position: fixed; left: 0; right: 0; bottom: 0; background: #121218f2; backdrop-filter: blur(10px); border-top: 1px solid #2a2a33; padding: .7rem 1rem calc(1rem + env(safe-area-inset-bottom)); }
+    .dock-inner { max-width: 980px; margin: 0 auto; }
+    .now { font-size: .85rem; color: var(--muted); margin-bottom: .35rem; }
+    .row { display: flex; align-items: center; gap: .55rem; flex-wrap: wrap; }
+    button.ctl { background: var(--gold); color: #111; border: 0; border-radius: 999px; width: 2.5rem; height: 2.5rem; font-weight: 700; cursor: pointer; }
+    button.ghost { background: #2a2a33; color: #eee; border: 0; border-radius: 8px; padding: .4rem .6rem; cursor: pointer; }
+    button.ghost.on { background: var(--gold); color: #111; font-weight: 700; }
+    input[type=range] { flex: 1; min-width: 120px; }
+    .times { font-variant-numeric: tabular-nums; color: var(--muted); font-size: .85rem; min-width: 7.5rem; text-align: right; }
+    .speeds { display: flex; gap: .3rem; flex-wrap: wrap; margin-top: .45rem; }
+    .caps { margin-top: .45rem; min-height: 2.2rem; font-size: 1.02rem; line-height: 1.35; }
+    .caps .w { color: #888; }
+    .caps .w.on { color: var(--gold); }
+    a { color: #9cf; }
+    .files { margin-top: 1.25rem; color: var(--muted); font-size: .9rem; display: flex; flex-wrap: wrap; gap: .5rem 1rem; }
+    h2 { font-size: .85rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 600; margin: 1.1rem 0 .45rem; }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <header>
+      <img class="cover" src="assets/cover.png" alt="Book cover">
+      <div>
+        <h1>I've made $3M with my 36 startups</h1>
+        <p class="by">Marc Lou · read by a voice clone of Marc Lou</p>
+        <p class="warn">Fan-project gift. Not read by Marc himself. Spoken disclaimer is in the first 10 seconds. If you’d rather this not exist, say so and it comes down the same day.</p>
+      </div>
+    </header>
+    <div class="stage">
+      <video id="media" playsinline webkit-playsinline preload="metadata" poster="assets/poster.png">
+        <source src="video/marc-lou-36-startups.mp4" type="video/mp4">
+      </video>
+    </div>
+    <h2>Chapters</h2>
+    <div class="chapters" id="list"></div>
+    <div class="files">
+      <a href="full/full-book.mp3">Full book MP3</a>
+      <a href="full/full-book.m4b">Chaptered M4B (Apple Books / Audible-style)</a>
+      <a href="video/marc-lou-36-startups.mp4">Captioned video</a>
+      <a href="captions/full-book.vtt">Captions</a>
+    </div>
+  </div>
+  <div class="dock">
+    <div class="dock-inner">
+      <div class="now" id="now">Loading…</div>
+      <div class="row">
+        <button class="ghost" id="prev" title="Previous chapter">⟨ ch</button>
+        <button class="ghost" id="back">−15s</button>
+        <button class="ctl" id="play">▶</button>
+        <button class="ghost" id="fwd">+15s</button>
+        <button class="ghost" id="next" title="Next chapter">ch ⟩</button>
+        <input type="range" id="seek" min="0" max="1000" value="0">
+        <span class="times" id="times">0:00 / 0:00</span>
+      </div>
+      <div class="speeds" id="speeds"></div>
+      <div class="caps" id="caps"></div>
+    </div>
+  </div>
+  <script>
+    const $ = (id) => document.getElementById(id);
+    const media = $('media');
+    const RATES = [0.8, 1, 1.25, 1.5, 1.75, 2];
+    let manifest = null, words = [], chapterIdx = 0, rate = 1;
+    const fmt = (s) => {
+      s = Math.max(0, s|0);
+      const h = Math.floor(s/3600), m = Math.floor((s%3600)/60), r = s%60;
+      return (h ? h + ':' : '') + String(m).padStart(h?2:1,'0') + ':' + String(r).padStart(2,'0');
+    };
+    function chapterAt(t) {
+      let i = 0;
+      for (let n = 0; n < manifest.chapters.length; n++) {
+        if (t + 0.05 >= (manifest.chapters[n].start_s || 0)) i = n;
+      }
+      return i;
+    }
+    function setChapter(i, seek=true) {
+      chapterIdx = Math.max(0, Math.min(manifest.chapters.length - 1, i));
+      const ch = manifest.chapters[chapterIdx];
+      $('now').textContent = (ch.number === 0 ? 'Opening' : 'Chapter ' + ch.number) + ' · ' + ch.title;
+      [...document.querySelectorAll('.ch')].forEach((el, n) => el.classList.toggle('active', n===chapterIdx));
+      if (seek) media.currentTime = ch.start_s || 0;
+    }
+    function applyRate(r) {
+      rate = r;
+      media.playbackRate = r;
+      try { localStorage.setItem('marc-audiobook-rate', String(r)); } catch (e) {}
+      [...document.querySelectorAll('#speeds button')].forEach(b => {
+        b.classList.toggle('on', Number(b.dataset.r) === r);
+      });
+    }
+    function renderSpeeds() {
+      $('speeds').innerHTML = RATES.map(r =>
+        `<button class="ghost" data-r="${r}">${r}×</button>`
+      ).join('');
+      $('speeds').onclick = (e) => {
+        const b = e.target.closest('button');
+        if (b) applyRate(Number(b.dataset.r));
+      };
+    }
+    function renderList() {
+      $('list').innerHTML = manifest.chapters.map((ch, i) => `
+        <div class="ch" data-i="${i}">
+          <div class="n">${ch.number === 0 ? '•' : String(ch.number).padStart(2,'0')}</div>
+          <div>${ch.title}</div>
+          <div class="dur">${fmt(ch.duration_s)}</div>
+        </div>`).join('');
+      $('list').onclick = (e) => {
+        const row = e.target.closest('.ch');
+        if (row) { setChapter(+row.dataset.i, true); media.play(); }
+      };
+    }
+    function updateCaps() {
+      const abs = media.currentTime;
+      let i = 0;
+      while (i < words.length && words[i].end < abs - 0.05) i++;
+      const win = [];
+      for (let j = Math.max(0, i-1); j < words.length && win.length < 10; j++) {
+        if (words[j].start > abs + 6) break;
+        win.push(words[j]);
+      }
+      $('caps').innerHTML = win.map(w => {
+        const on = abs >= w.start && abs <= w.end + 0.05;
+        return `<span class="w${on ? ' on' : ''}">${w.word}</span>`;
+      }).join(' ');
+    }
+    media.ontimeupdate = () => {
+      if (!media.duration) return;
+      $('seek').value = (media.currentTime / media.duration) * 1000;
+      $('times').textContent = fmt(media.currentTime) + ' / ' + fmt(media.duration);
+      const i = chapterAt(media.currentTime);
+      if (i !== chapterIdx) setChapter(i, false);
+      updateCaps();
+    };
+    media.onratechange = () => { if (media.playbackRate !== rate) applyRate(media.playbackRate); };
+    $('play').onclick = () => { if (media.paused) media.play(); else media.pause(); };
+    media.onclick = () => { if (media.paused) media.play(); else media.pause(); };
+    media.onplay = () => $('play').textContent = '❚❚';
+    media.onpause = () => $('play').textContent = '▶';
+    $('back').onclick = () => { media.currentTime = Math.max(0, media.currentTime - 15); };
+    $('fwd').onclick = () => { media.currentTime = Math.min(media.duration||0, media.currentTime + 15); };
+    $('prev').onclick = () => setChapter(chapterIdx - 1, true);
+    $('next').onclick = () => setChapter(chapterIdx + 1, true);
+    $('seek').oninput = () => { if (media.duration) media.currentTime = ($('seek').value/1000) * media.duration; };
+    document.addEventListener('keydown', (e) => {
+      if (e.target.tagName === 'INPUT') return;
+      if (e.code === 'Space') { e.preventDefault(); $('play').click(); }
+      if (e.code === 'ArrowLeft') $('back').click();
+      if (e.code === 'ArrowRight') $('fwd').click();
+    });
+    renderSpeeds();
+    Promise.all([
+      fetch('manifest.json').then(r => r.json()),
+      fetch('captions/words.json').then(r => r.json()).catch(() => ({words:[]}))
+    ]).then(([m, w]) => {
+      manifest = m;
+      words = w.words || [];
+      renderList();
+      setChapter(0, false);
+      let saved = 1;
+      try { saved = Number(localStorage.getItem('marc-audiobook-rate') || 1); } catch (e) {}
+      applyRate(RATES.includes(saved) ? saved : 1);
+    });
+  </script>
+</body>
+</html>
