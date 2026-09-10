@@ -65,6 +65,7 @@
       align-items: center;
       margin-bottom: 1.6rem;
     }
+    .hero > div { min-width: 0; }
     .cover-wrap {
       width: 156px;
       aspect-ratio: 5 / 8;
@@ -237,9 +238,13 @@
     .transport {
       display: grid;
       grid-template-columns: auto 1fr auto;
+      grid-template-areas: "arrows seek speed";
       gap: .85rem 1rem;
       align-items: center;
     }
+    .arrows { grid-area: arrows; }
+    .seek-wrap { grid-area: seek; }
+    .speed { grid-area: speed; }
     .arrows {
       display: flex;
       align-items: center;
@@ -283,7 +288,8 @@
       height: 2.15rem;
       padding: 0 .7rem;
       border-radius: 999px;
-      background: rgba(255,255,255,.06);
+      background: rgba(255,255,255,.08);
+      border: 1px solid var(--line);
       font-size: .82rem;
       font-weight: 600;
       font-variant-numeric: tabular-nums;
