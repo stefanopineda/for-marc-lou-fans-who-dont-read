@@ -1,7 +1,7 @@
-# A gift for Marc Lou
+# Unofficial audiobook of Marc Lou’s 36 startups book
 
-Fan-project audiobook of https://book.marclou.com/
+Voice clone from public talks. Not Marc reading.
 
-Not read by Marc. Voice clone from public interviews.
+https://book.marclou.com/
 
 https://stefanopineda.github.io/a-gift-for-marc-lou/
